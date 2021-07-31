@@ -1,0 +1,3446 @@
+{
+   "CONTA_DE_PAGAMENTO": {
+      "322963330866": {
+         "Valor_Total_Conta_de_Pagamento": 4451.592925652073,
+         "PERIODO": {
+            "2021-06-01 | 00:00:00 --> 2021-07-01 | 00:00:00": {
+               "Valor_Total_do_Periodo": 4451.592925652073,
+               "USUARIO": {
+                  "668033369223": {
+                     "Valor_Total_do_Usuario": 4451.592925652073,
+                     "PRODUTO": {
+                        "AWSCloudTrail": 34.11125000000031,
+                        "AmazonEC2": 1913.3342923813561,
+                        "AmazonVPC": 240.39279765320407,
+                        "AmazonDynamoDB": 13.397682787100656,
+                        "AmazonS3": 9.382638609985579,
+                        "AmazonCloudWatch": 120.48584326950329,
+                        "AWSSystemsManager": 0.0,
+                        "AWSDataTransfer": 10.98,
+                        "AWSQueueService": 43.2465153895,
+                        "AWSELB": 344.3472522238224,
+                        "ComputeSavingsPlans": 261.49800000000226,
+                        "AmazonEFS": 0.0412396963999994,
+                        "AmazonRDS": 209.04924906179815,
+                        "AmazonRoute53": 8.36716199699969,
+                        "cphb99lr7icr3n9x6kc3102s5": 115.2799999999979,
+                        "2wqkpek696qhdeo7lbbjncqli": 525.6000000000051,
+                        "5u9abfvy0c5mbyub6zsvhjkkv": 85.80499999999984,
+                        "AmazonSNS": 0.0009803576999999899,
+                        "awskms": 0.01114500000000013,
+                        "AmazonKinesis": 147.6219953059865,
+                        "AWSSecretsManager": 0.45055558759999537,
+                        "AmazonECS": 0.0,
+                        "AWSLambda": 5.331999919399663,
+                        "AmazonElastiCache": 69.67704970440222,
+                        "AmazonECR": 6.93777230339894,
+                        "AmazonApiGateway": 25.123571595999973,
+                        "AWSXRay": 5.888244999999986,
+                        "datapipeline": 21.851388840898423,
+                        "AmazonKinesisAnalytics": 120.89999999999927,
+                        "AmazonCloudFront": 2.2268506926000042,
+                        "AWSEvents": 2.6359010000000023,
+                        "AmazonKinesisFirehose": 0.7962635163000004,
+                        "AmazonES": 44.73609491300111,
+                        "AWSGlue": 0.008642989199999961,
+                        "AmazonLightsail": 42.41031523499954,
+                        "AWSConfig": 12.481999999999989,
+                        "AWSAmplify": 0.0279226625,
+                        "AmazonSES": 0.020453240699999986,
+                        "AmazonMacie": 7.504575999999999,
+                        "CodeBuild": 1.3000000000000005,
+                        "AmazonAthena": 0.0061499999999999975,
+                        "ElasticMapReduce": 0.14757985,
+                        "AmazonCognito": 0.0,
+                        "AWSCodeArtifact": 1.234e-07
+                     },
+                     "INSTANCIA": {
+                        "t2.micro | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 119.72028861061331,
+                           "Id_da_Instancia": {
+                              "i-7e906f086b5a03240": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 13.391999999999845,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-bc8368594104f6670": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 13.391999999999845,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-3ec1b9b86fc2fc880": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 13.391999999999845,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-a1420de98e451da40": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 13.391999999999845,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-0debbbe4f2ad11a90": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 13.391999999999845,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-564c613465be74d50": {
+                                 "Quantidade_Usada": 194.258611,
+                                 "Valor_Total": 3.613210164600011,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-e12ecedf857b84160": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 13.391999999999845,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-c8d030090c40b2100": {
+                                 "Quantidade_Usada": 128.0,
+                                 "Valor_Total": 2.3808,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-9fda1b825cac84e70": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 13.391999999999845,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-57fa643d72b3193c0": {
+                                 "Quantidade_Usada": 170.317778,
+                                 "Valor_Total": 3.167910670800007,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-2f01485067e82bc20": {
+                                 "Quantidade_Usada": 5.0,
+                                 "Valor_Total": 0.093,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-019041fa": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 8.35199999999987,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-00e0b60e0555ad960": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 8.35199999999987,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-573c6b86228db36e0": {
+                                 "Quantidade_Usada": 0.041389,
+                                 "Valor_Total": 0.0004801124,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-9daf6bde151d20f50": {
+                                 "Quantidade_Usada": 0.053611,
+                                 "Valor_Total": 0.0006218876,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f908c476e02a922f0": {
+                                 "Quantidade_Usada": 0.056667,
+                                 "Valor_Total": 0.0006573372,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-a484884ba7257c360": {
+                                 "Quantidade_Usada": 0.026389,
+                                 "Valor_Total": 0.0003061124,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-827640c7a16839fc0": {
+                                 "Quantidade_Usada": 0.040278,
+                                 "Valor_Total": 0.0004672248,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-9f4b346d9d1d9e1c0": {
+                                 "Quantidade_Usada": 0.038056,
+                                 "Valor_Total": 0.0004414496,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e1372a77f4cc24f10": {
+                                 "Quantidade_Usada": 0.024167,
+                                 "Valor_Total": 0.0002803372,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0d4a4c46fe6efcc20": {
+                                 "Quantidade_Usada": 0.026389,
+                                 "Valor_Total": 0.0003061124,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-51401b140f0ee3960": {
+                                 "Quantidade_Usada": 0.036944,
+                                 "Valor_Total": 0.0004285504,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-545ecc92f9aa57d00": {
+                                 "Quantidade_Usada": 0.052222,
+                                 "Valor_Total": 0.0006057752,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f46431647731d93e0": {
+                                 "Quantidade_Usada": 0.041667,
+                                 "Valor_Total": 0.0004833372,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-72e6693a4eb204940": {
+                                 "Quantidade_Usada": 0.041111,
+                                 "Valor_Total": 0.0004768876,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ee3294163cb18bab0": {
+                                 "Quantidade_Usada": 0.057222,
+                                 "Valor_Total": 0.0006637752,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-134d999859e5a4340": {
+                                 "Quantidade_Usada": 0.045278,
+                                 "Valor_Total": 0.0005252248,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1b023b7305b3f61c0": {
+                                 "Quantidade_Usada": 0.023611,
+                                 "Valor_Total": 0.0002738876,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3185a10e9cc97c250": {
+                                 "Quantidade_Usada": 0.039722,
+                                 "Valor_Total": 0.0004607752,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-9649de8e351ac5830": {
+                                 "Quantidade_Usada": 0.05,
+                                 "Valor_Total": 0.00058,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-199160c776f7a17b0": {
+                                 "Quantidade_Usada": 0.043333,
+                                 "Valor_Total": 0.0005026628,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7f3a2e1c6510db410": {
+                                 "Quantidade_Usada": 0.2775,
+                                 "Valor_Total": 0.003219,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3aebadab518081980": {
+                                 "Quantidade_Usada": 0.037778,
+                                 "Valor_Total": 0.0004382248,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-651afbaa45c0f2490": {
+                                 "Quantidade_Usada": 0.040833,
+                                 "Valor_Total": 0.0004736628,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-4e67820301b502f40": {
+                                 "Quantidade_Usada": 0.044722,
+                                 "Valor_Total": 0.0005187752,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-72ac1d68e78e8b270": {
+                                 "Quantidade_Usada": 0.041389,
+                                 "Valor_Total": 0.0004801124,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1d844648de94deb30": {
+                                 "Quantidade_Usada": 0.031389,
+                                 "Valor_Total": 0.0003641124,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-9ad5ab1019f2b5400": {
+                                 "Quantidade_Usada": 0.043611,
+                                 "Valor_Total": 0.0005058876,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3c0adeab8a25523f0": {
+                                 "Quantidade_Usada": 0.031111,
+                                 "Valor_Total": 0.0003608876,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-aa23c5c78f42e4600": {
+                                 "Quantidade_Usada": 0.036389,
+                                 "Valor_Total": 0.0004221124,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-53faadee106640320": {
+                                 "Quantidade_Usada": 0.045278,
+                                 "Valor_Total": 0.0005252248,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e3e218eaab48e1650": {
+                                 "Quantidade_Usada": 0.028333,
+                                 "Valor_Total": 0.0003286628,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-36bfb17d78d2513a0": {
+                                 "Quantidade_Usada": 0.053333,
+                                 "Valor_Total": 0.0006186628,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ae6a73231a6ea2ba0": {
+                                 "Quantidade_Usada": 0.0475,
+                                 "Valor_Total": 0.000551,
+                                 "Regiao": "us-east-1"
+                              }
+                           }
+                        },
+                        "t2.medium | Windows": {
+                           "Valor_Total_do_Tipo_de_Instancia": 66.52799999999957,
+                           "Id_da_Instancia": {
+                              "i-b8707b92401d96a90": {
+                                 "Quantidade_Usada": 719.9999999999986,
+                                 "Valor_Total": 66.52799999999957,
+                                 "Regiao": "sa-east-1"
+                              }
+                           }
+                        },
+                        "t3a.small | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 65.23200000000094,
+                           "Id_da_Instancia": {
+                              "i-2fd7d1ee65c136cd0": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 21.744000000000263,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-92bf551b5068be190": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 21.744000000000263,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-961b7844ccd1df330": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 21.744000000000263,
+                                 "Regiao": "sa-east-1"
+                              }
+                           }
+                        },
+                        "m4.large | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 116.25725020000165,
+                           "Id_da_Instancia": {
+                              "i-b06ef03343045ff00": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 114.48000000000161,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-9de16086b9df3ee20": {
+                                 "Quantidade_Usada": 0.2025,
+                                 "Valor_Total": 0.02025,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d1a7d3f096070cf20": {
+                                 "Quantidade_Usada": 0.203889,
+                                 "Valor_Total": 0.0203889,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-714a15ab3e2c3f270": {
+                                 "Quantidade_Usada": 0.206389,
+                                 "Valor_Total": 0.0206389,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0533b497dae612350": {
+                                 "Quantidade_Usada": 0.202778,
+                                 "Valor_Total": 0.0202778,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-dd7ac6a38b1835fd0": {
+                                 "Quantidade_Usada": 0.210833,
+                                 "Valor_Total": 0.0210833,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-cb9c54724a5df4df0": {
+                                 "Quantidade_Usada": 0.202778,
+                                 "Valor_Total": 0.0202778,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7332c454b0a5d3410": {
+                                 "Quantidade_Usada": 0.166667,
+                                 "Valor_Total": 0.0166667,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1cf9b6765eaf55bc0": {
+                                 "Quantidade_Usada": 0.200833,
+                                 "Valor_Total": 0.0200833,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-cf714ffefc444b9c0": {
+                                 "Quantidade_Usada": 0.194444,
+                                 "Valor_Total": 0.0194444,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-43a261e8fbbc382a0": {
+                                 "Quantidade_Usada": 0.210556,
+                                 "Valor_Total": 0.0210556,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-44fd3b5e05c914960": {
+                                 "Quantidade_Usada": 0.196944,
+                                 "Valor_Total": 0.0196944,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6ef05cb8e580f11e0": {
+                                 "Quantidade_Usada": 0.2075,
+                                 "Valor_Total": 0.02075,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8f5d21ba266eac2c0": {
+                                 "Quantidade_Usada": 0.206389,
+                                 "Valor_Total": 0.0206389,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6b4ee24b9ec0550f0": {
+                                 "Quantidade_Usada": 0.165833,
+                                 "Valor_Total": 0.0165833,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-27fd72b781690de10": {
+                                 "Quantidade_Usada": 0.194167,
+                                 "Valor_Total": 0.0194167,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-533c2dc87479d87b0": {
+                                 "Quantidade_Usada": 0.204167,
+                                 "Valor_Total": 0.0204167,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1469c95f76a609c60": {
+                                 "Quantidade_Usada": 0.21,
+                                 "Valor_Total": 0.021,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-38de938df33a69e70": {
+                                 "Quantidade_Usada": 0.172778,
+                                 "Valor_Total": 0.0172778,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3ee04c95a7133acf0": {
+                                 "Quantidade_Usada": 0.209722,
+                                 "Valor_Total": 0.0209722,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f74d5d86d1e225810": {
+                                 "Quantidade_Usada": 0.205833,
+                                 "Valor_Total": 0.0205833,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-bd6fecdbd4afbd960": {
+                                 "Quantidade_Usada": 0.210278,
+                                 "Valor_Total": 0.0210278,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-5233e45fe7fb67120": {
+                                 "Quantidade_Usada": 0.211944,
+                                 "Valor_Total": 0.0211944,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8ba5019e92469c480": {
+                                 "Quantidade_Usada": 0.206667,
+                                 "Valor_Total": 0.0206667,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-cb110224021b6da70": {
+                                 "Quantidade_Usada": 0.176389,
+                                 "Valor_Total": 0.0176389,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-b1e44012e15d6c3b0": {
+                                 "Quantidade_Usada": 0.200278,
+                                 "Valor_Total": 0.0200278,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-4d389a34dfaa45440": {
+                                 "Quantidade_Usada": 0.1775,
+                                 "Valor_Total": 0.01775,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-bce30de44a419eb40": {
+                                 "Quantidade_Usada": 0.206111,
+                                 "Valor_Total": 0.0206111,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e6c14ec5ed2dc6030": {
+                                 "Quantidade_Usada": 0.205556,
+                                 "Valor_Total": 0.0205556,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-45b4e49cb8f7bd8a0": {
+                                 "Quantidade_Usada": 0.205278,
+                                 "Valor_Total": 0.0205278,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ed5506cd9650dd1b0": {
+                                 "Quantidade_Usada": 0.208889,
+                                 "Valor_Total": 0.0208889,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d539bd1152836db40": {
+                                 "Quantidade_Usada": 0.2025,
+                                 "Valor_Total": 0.02025,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-22291749bdfd22c60": {
+                                 "Quantidade_Usada": 0.177778,
+                                 "Valor_Total": 0.0177778,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d9f9c391c26b28710": {
+                                 "Quantidade_Usada": 0.208333,
+                                 "Valor_Total": 0.0208333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7136eee3161086880": {
+                                 "Quantidade_Usada": 0.211944,
+                                 "Valor_Total": 0.0211944,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-72732ee25b7573160": {
+                                 "Quantidade_Usada": 0.178333,
+                                 "Valor_Total": 0.0178333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0c890d27e406e70d0": {
+                                 "Quantidade_Usada": 0.198333,
+                                 "Valor_Total": 0.0198333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-bcab8b814a0013cf0": {
+                                 "Quantidade_Usada": 0.176389,
+                                 "Valor_Total": 0.0176389,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ffcda46d72aef5e30": {
+                                 "Quantidade_Usada": 0.204722,
+                                 "Valor_Total": 0.0204722,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-587d86a370f15d0e0": {
+                                 "Quantidade_Usada": 0.176389,
+                                 "Valor_Total": 0.0176389,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-18d9a4c2abf54a920": {
+                                 "Quantidade_Usada": 0.203056,
+                                 "Valor_Total": 0.0203056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-fa116a7ac31140bf0": {
+                                 "Quantidade_Usada": 0.195,
+                                 "Valor_Total": 0.0195,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-40551bf21709a8dc0": {
+                                 "Quantidade_Usada": 0.178333,
+                                 "Valor_Total": 0.0178333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ee2f7c6f2c90a5b70": {
+                                 "Quantidade_Usada": 0.210833,
+                                 "Valor_Total": 0.0210833,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-43cd2f3ee7aa594a0": {
+                                 "Quantidade_Usada": 0.196389,
+                                 "Valor_Total": 0.0196389,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d0895b77636e48300": {
+                                 "Quantidade_Usada": 0.178333,
+                                 "Valor_Total": 0.0178333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d487df97d3f7a1700": {
+                                 "Quantidade_Usada": 0.209444,
+                                 "Valor_Total": 0.0209444,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3eb8dda0d77e2aa90": {
+                                 "Quantidade_Usada": 0.203889,
+                                 "Valor_Total": 0.0203889,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0208489217fe6f370": {
+                                 "Quantidade_Usada": 0.201667,
+                                 "Valor_Total": 0.0201667,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3e99f98d6721f7c70": {
+                                 "Quantidade_Usada": 0.198889,
+                                 "Valor_Total": 0.0198889,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7ff7087522ca7c690": {
+                                 "Quantidade_Usada": 0.211111,
+                                 "Valor_Total": 0.0211111,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-cc8ede3cb54fe58a0": {
+                                 "Quantidade_Usada": 0.168889,
+                                 "Valor_Total": 0.0168889,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-021ac2bbf81123dd0": {
+                                 "Quantidade_Usada": 0.178056,
+                                 "Valor_Total": 0.0178056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f1515dcc0b78559d0": {
+                                 "Quantidade_Usada": 0.172778,
+                                 "Valor_Total": 0.0172778,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f0183b4eff671f9b0": {
+                                 "Quantidade_Usada": 0.202222,
+                                 "Valor_Total": 0.0202222,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1195c7e0a7910b620": {
+                                 "Quantidade_Usada": 0.209167,
+                                 "Valor_Total": 0.0209167,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d8b47f69e28296540": {
+                                 "Quantidade_Usada": 0.205556,
+                                 "Valor_Total": 0.0205556,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6cc737ad22687db50": {
+                                 "Quantidade_Usada": 0.201944,
+                                 "Valor_Total": 0.0201944,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-687f735700d525440": {
+                                 "Quantidade_Usada": 0.206667,
+                                 "Valor_Total": 0.0206667,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7e169255b5e7ed200": {
+                                 "Quantidade_Usada": 0.204167,
+                                 "Valor_Total": 0.0204167,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f4f0429e87e2aaf10": {
+                                 "Quantidade_Usada": 0.205278,
+                                 "Valor_Total": 0.0205278,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-bd5ea494db536f410": {
+                                 "Quantidade_Usada": 0.203056,
+                                 "Valor_Total": 0.0203056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-21ca90b1510530c90": {
+                                 "Quantidade_Usada": 0.204722,
+                                 "Valor_Total": 0.0204722,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-9843505593ae4df70": {
+                                 "Quantidade_Usada": 0.210278,
+                                 "Valor_Total": 0.0210278,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e4d26689e21212c50": {
+                                 "Quantidade_Usada": 0.209722,
+                                 "Valor_Total": 0.0209722,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-af088edc42a4949e0": {
+                                 "Quantidade_Usada": 0.211944,
+                                 "Valor_Total": 0.0211944,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-353e7ce807f1bf620": {
+                                 "Quantidade_Usada": 0.203333,
+                                 "Valor_Total": 0.0203333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-a2d4d44483aad75d0": {
+                                 "Quantidade_Usada": 0.179167,
+                                 "Valor_Total": 0.0179167,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-2af0d8c570a766440": {
+                                 "Quantidade_Usada": 0.164444,
+                                 "Valor_Total": 0.0164444,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-5f566be8272882fa0": {
+                                 "Quantidade_Usada": 0.207222,
+                                 "Valor_Total": 0.0207222,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8384a0870ab76db10": {
+                                 "Quantidade_Usada": 0.2025,
+                                 "Valor_Total": 0.02025,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1594d6c26ec21cfb0": {
+                                 "Quantidade_Usada": 0.178056,
+                                 "Valor_Total": 0.0178056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-eb84d668efb3e4630": {
+                                 "Quantidade_Usada": 0.208056,
+                                 "Valor_Total": 0.0208056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1776078cfda82f540": {
+                                 "Quantidade_Usada": 0.208333,
+                                 "Valor_Total": 0.0208333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-eab152e8378ca3fe0": {
+                                 "Quantidade_Usada": 0.200833,
+                                 "Valor_Total": 0.0200833,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-351a2da5248265480": {
+                                 "Quantidade_Usada": 0.204167,
+                                 "Valor_Total": 0.0204167,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-dd014282ff8d18bc0": {
+                                 "Quantidade_Usada": 0.203333,
+                                 "Valor_Total": 0.0203333,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e2cb9893e065cb3a0": {
+                                 "Quantidade_Usada": 0.1975,
+                                 "Valor_Total": 0.01975,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-c213a0ec31c9b2120": {
+                                 "Quantidade_Usada": 0.196667,
+                                 "Valor_Total": 0.0196667,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e0df496a229bf5e80": {
+                                 "Quantidade_Usada": 0.177778,
+                                 "Valor_Total": 0.0177778,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-54e4b6a9650c01fd0": {
+                                 "Quantidade_Usada": 0.168056,
+                                 "Valor_Total": 0.0168056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0b465cf2dc6446060": {
+                                 "Quantidade_Usada": 0.194444,
+                                 "Valor_Total": 0.0194444,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-add5c8f50281ed010": {
+                                 "Quantidade_Usada": 0.175556,
+                                 "Valor_Total": 0.0175556,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-dd13850c99153c9e0": {
+                                 "Quantidade_Usada": 0.198889,
+                                 "Valor_Total": 0.0198889,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-cdb711fd32ea1d080": {
+                                 "Quantidade_Usada": 0.209722,
+                                 "Valor_Total": 0.0209722,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0f0d08b6da7cdff30": {
+                                 "Quantidade_Usada": 0.201667,
+                                 "Valor_Total": 0.0201667,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8de67d2efb8272ec0": {
+                                 "Quantidade_Usada": 0.200556,
+                                 "Valor_Total": 0.0200556,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f2e187b83ed333c80": {
+                                 "Quantidade_Usada": 0.212222,
+                                 "Valor_Total": 0.0212222,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-b6b10eaa8b8d5f840": {
+                                 "Quantidade_Usada": 0.1775,
+                                 "Valor_Total": 0.01775,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-cc8e4cbfb74a0c160": {
+                                 "Quantidade_Usada": 0.199722,
+                                 "Valor_Total": 0.0199722,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-5b3a0137c85b97db0": {
+                                 "Quantidade_Usada": 0.202778,
+                                 "Valor_Total": 0.0202778,
+                                 "Regiao": "us-east-1"
+                              }
+                           }
+                        },
+                        "t2.medium | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 113.81021514720187,
+                           "Id_da_Instancia": {
+                              "i-96cefd058fbde20c0": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 26.78399999999969,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-6778ec0014f420c00": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 53.56799999999938,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-12c35dbd885ea34d0": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 33.40799999999948,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-b02ad6cb823c67840": {
+                                 "Quantidade_Usada": 0.035833,
+                                 "Valor_Total": 0.0016626512,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7e374010fca31b180": {
+                                 "Quantidade_Usada": 0.04,
+                                 "Valor_Total": 0.001856,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-087b66e7fcfa923f0": {
+                                 "Quantidade_Usada": 0.039444,
+                                 "Valor_Total": 0.0018302016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7e27182369a4eac90": {
+                                 "Quantidade_Usada": 0.032778,
+                                 "Valor_Total": 0.0015208992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e7b6b39d5989c30a0": {
+                                 "Quantidade_Usada": 0.035,
+                                 "Valor_Total": 0.001624,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-264e674a53477b8e0": {
+                                 "Quantidade_Usada": 0.037778,
+                                 "Valor_Total": 0.0017528992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-4778eed10dc6ae6c0": {
+                                 "Quantidade_Usada": 0.046667,
+                                 "Valor_Total": 0.0021653488,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3f25c2a16d6e41990": {
+                                 "Quantidade_Usada": 0.038611,
+                                 "Valor_Total": 0.0017915504,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-039f5bed96d4e1c00": {
+                                 "Quantidade_Usada": 0.035833,
+                                 "Valor_Total": 0.0016626512,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-65efb77657db325e0": {
+                                 "Quantidade_Usada": 0.038889,
+                                 "Valor_Total": 0.0018044496,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-a201ab5b273ff1180": {
+                                 "Quantidade_Usada": 0.034722,
+                                 "Valor_Total": 0.0016111008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-fafcf2f2ef8fbd400": {
+                                 "Quantidade_Usada": 0.039167,
+                                 "Valor_Total": 0.0018173488,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-76294250f68c06f20": {
+                                 "Quantidade_Usada": 0.034722,
+                                 "Valor_Total": 0.0016111008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-66eb333cdf1efb950": {
+                                 "Quantidade_Usada": 0.035833,
+                                 "Valor_Total": 0.0016626512,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7ced82f78fb650c70": {
+                                 "Quantidade_Usada": 0.035833,
+                                 "Valor_Total": 0.0016626512,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e85688ce99f139300": {
+                                 "Quantidade_Usada": 0.039167,
+                                 "Valor_Total": 0.0018173488,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-48568c52b4278ccd0": {
+                                 "Quantidade_Usada": 0.038889,
+                                 "Valor_Total": 0.0018044496,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-798826c1c382f07f0": {
+                                 "Quantidade_Usada": 0.038611,
+                                 "Valor_Total": 0.0017915504,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-9b2c1268cb824b900": {
+                                 "Quantidade_Usada": 0.035833,
+                                 "Valor_Total": 0.0016626512,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8b85497fccde89790": {
+                                 "Quantidade_Usada": 0.030833,
+                                 "Valor_Total": 0.0014306512,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8de602537b97a74c0": {
+                                 "Quantidade_Usada": 0.037778,
+                                 "Valor_Total": 0.0017528992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-05ee016753c6b5020": {
+                                 "Quantidade_Usada": 0.026667,
+                                 "Valor_Total": 0.0012373488,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-1fe9b1a319c1204c0": {
+                                 "Quantidade_Usada": 0.035556,
+                                 "Valor_Total": 0.0016497984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3582791cc0de83440": {
+                                 "Quantidade_Usada": 0.025,
+                                 "Valor_Total": 0.00116,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-5e9b93cf32e0ae7a0": {
+                                 "Quantidade_Usada": 0.036389,
+                                 "Valor_Total": 0.0016884496,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-2ee4ceae0b804c0a0": {
+                                 "Quantidade_Usada": 0.035556,
+                                 "Valor_Total": 0.0016497984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-4f194116fe55557e0": {
+                                 "Quantidade_Usada": 0.038333,
+                                 "Valor_Total": 0.0017786512,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f67b9702513545520": {
+                                 "Quantidade_Usada": 0.036667,
+                                 "Valor_Total": 0.0017013488,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-86678ef10f4db01b0": {
+                                 "Quantidade_Usada": 0.027778,
+                                 "Valor_Total": 0.0012888992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8523a60fbc42b19d0": {
+                                 "Quantidade_Usada": 0.038056,
+                                 "Valor_Total": 0.0017657984,
+                                 "Regiao": "us-east-1"
+                              }
+                           }
+                        },
+                        "t3.small | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 60.223314681599746,
+                           "Id_da_Instancia": {
+                              "i-0a3ab0660f0265640": {
+                                 "Quantidade_Usada": 549.0,
+                                 "Valor_Total": 18.44639999999993,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-cde755ce42b2797c0": {
+                                 "Quantidade_Usada": 485.0,
+                                 "Valor_Total": 16.29599999999994,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-6578704527ec34fb0": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 24.191999999999904,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-9fe81ed737e2385b0": {
+                                 "Quantidade_Usada": 38.360556,
+                                 "Valor_Total": 1.2889146816000001,
+                                 "Regiao": "sa-east-1"
+                              }
+                           }
+                        },
+                        "c5.large | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 94.18900000000015,
+                           "Id_da_Instancia": {
+                              "i-471efe72c04ae0ba0": {
+                                 "Quantidade_Usada": 719.0,
+                                 "Valor_Total": 94.18900000000015,
+                                 "Regiao": "sa-east-1"
+                              }
+                           }
+                        },
+                        "t3.small | Windows": {
+                           "Valor_Total_do_Tipo_de_Instancia": 2.704000000000002,
+                           "Id_da_Instancia": {
+                              "i-c02bdbd210ba4ffa0": {
+                                 "Quantidade_Usada": 52.0,
+                                 "Valor_Total": 2.704000000000002,
+                                 "Regiao": "sa-east-1"
+                              }
+                           }
+                        },
+                        "m5.xlarge | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 220.3200000000027,
+                           "Id_da_Instancia": {
+                              "i-e487ede8d1bde24a0": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 220.3200000000027,
+                                 "Regiao": "sa-east-1"
+                              }
+                           }
+                        },
+                        "c5.xlarge | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 377.2800000000006,
+                           "Id_da_Instancia": {
+                              "i-040422cdc36d44cb0": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 188.6400000000003,
+                                 "Regiao": "sa-east-1"
+                              },
+                              "i-908119c3f2ef58b60": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 188.6400000000003,
+                                 "Regiao": "sa-east-1"
+                              }
+                           }
+                        },
+                        "t3a.medium | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 27.21972622640025,
+                           "Id_da_Instancia": {
+                              "i-16538e65a21af2800": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 27.07200000000025,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-537247c59f9130650": {
+                                 "Quantidade_Usada": 0.380556,
+                                 "Valor_Total": 0.0143089056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0c151c5ef3a1152e0": {
+                                 "Quantidade_Usada": 0.316111,
+                                 "Valor_Total": 0.0118857736,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ba71195cf6b32ccc0": {
+                                 "Quantidade_Usada": 0.205278,
+                                 "Valor_Total": 0.0077184528,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-fa8637b471a5c1d30": {
+                                 "Quantidade_Usada": 0.318611,
+                                 "Valor_Total": 0.0119797736,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-00d3c4273addb0b30": {
+                                 "Quantidade_Usada": 0.299444,
+                                 "Valor_Total": 0.0112590944,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3b33e61f37c3c5fa0": {
+                                 "Quantidade_Usada": 0.551667,
+                                 "Valor_Total": 0.0207426792,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e674e4e6b1fe2c1a0": {
+                                 "Quantidade_Usada": 0.328056,
+                                 "Valor_Total": 0.0123349056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-9f5a8ed810bdfbb70": {
+                                 "Quantidade_Usada": 0.339722,
+                                 "Valor_Total": 0.0127735472,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d857defea5e40e440": {
+                                 "Quantidade_Usada": 0.366944,
+                                 "Valor_Total": 0.0137970944,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ec6557488893bb460": {
+                                 "Quantidade_Usada": 0.334722,
+                                 "Valor_Total": 0.0125855472,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-67590cd1f292980e0": {
+                                 "Quantidade_Usada": 0.202778,
+                                 "Valor_Total": 0.0076244528,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8b7635a945876c380": {
+                                 "Quantidade_Usada": 0.285,
+                                 "Valor_Total": 0.010716,
+                                 "Regiao": "us-east-1"
+                              }
+                           }
+                        },
+                        "t3.nano | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 3.7439999999999727,
+                           "Id_da_Instancia": {
+                              "i-9c04829b3fec9ef50": {
+                                 "Quantidade_Usada": 720.0,
+                                 "Valor_Total": 3.7439999999999727,
+                                 "Regiao": "us-west-2"
+                              }
+                           }
+                        },
+                        "t2.large | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 0.29286120959999995,
+                           "Id_da_Instancia": {
+                              "i-fa9e50710343b40e0": {
+                                 "Quantidade_Usada": 0.059722,
+                                 "Valor_Total": 0.0055422016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-4a3ad92f82e9e81d0": {
+                                 "Quantidade_Usada": 0.045278,
+                                 "Valor_Total": 0.0042017984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-aa19988e8d55e2e80": {
+                                 "Quantidade_Usada": 0.046944,
+                                 "Valor_Total": 0.0043564032,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d6935438a52ae5000": {
+                                 "Quantidade_Usada": 0.044167,
+                                 "Valor_Total": 0.0040986976,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7e40998ce21a56b90": {
+                                 "Quantidade_Usada": 0.045833,
+                                 "Valor_Total": 0.0042533024,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-02bddbe78411b8d80": {
+                                 "Quantidade_Usada": 0.061389,
+                                 "Valor_Total": 0.0056968992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-10a360645ca37be00": {
+                                 "Quantidade_Usada": 0.041944,
+                                 "Valor_Total": 0.0038924032,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-a0a0c94e0b209f920": {
+                                 "Quantidade_Usada": 0.059167,
+                                 "Valor_Total": 0.0054906976,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8dd53b19189476870": {
+                                 "Quantidade_Usada": 0.045556,
+                                 "Valor_Total": 0.0042275968,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-00a6e58021ca0ac30": {
+                                 "Quantidade_Usada": 0.0625,
+                                 "Valor_Total": 0.0058,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-bbb2b8785b14e5200": {
+                                 "Quantidade_Usada": 0.063611,
+                                 "Valor_Total": 0.0059031008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-984c9dfa9198287d0": {
+                                 "Quantidade_Usada": 0.060833,
+                                 "Valor_Total": 0.0056453024,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-2d675963992c0ab60": {
+                                 "Quantidade_Usada": 0.060278,
+                                 "Valor_Total": 0.0055937984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-920d4ee6403648a40": {
+                                 "Quantidade_Usada": 0.061389,
+                                 "Valor_Total": 0.0056968992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-4bad452374c7ca9b0": {
+                                 "Quantidade_Usada": 0.046389,
+                                 "Valor_Total": 0.0043048992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-3a055a1e84052b050": {
+                                 "Quantidade_Usada": 0.062778,
+                                 "Valor_Total": 0.0058257984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-a5c9c1a7b8d539d50": {
+                                 "Quantidade_Usada": 0.045,
+                                 "Valor_Total": 0.004176,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-d4514c8163ed4eff0": {
+                                 "Quantidade_Usada": 0.06,
+                                 "Valor_Total": 0.005568,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-718d84965d69b9e90": {
+                                 "Quantidade_Usada": 0.047778,
+                                 "Valor_Total": 0.0044337984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-35f95786ae583d620": {
+                                 "Quantidade_Usada": 0.061667,
+                                 "Valor_Total": 0.0057226976,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-b08089fc7b6a2a500": {
+                                 "Quantidade_Usada": 0.044444,
+                                 "Valor_Total": 0.0041244032,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-55af2df12067797a0": {
+                                 "Quantidade_Usada": 0.046111,
+                                 "Valor_Total": 0.0042791008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ca49fe6aa4de502f0": {
+                                 "Quantidade_Usada": 0.061111,
+                                 "Valor_Total": 0.0056711008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f394598536b758160": {
+                                 "Quantidade_Usada": 0.060833,
+                                 "Valor_Total": 0.0056453024,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8eb20bd8bc1e142c0": {
+                                 "Quantidade_Usada": 0.057778,
+                                 "Valor_Total": 0.0053617984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-43a245b6dfa0a23c0": {
+                                 "Quantidade_Usada": 0.044167,
+                                 "Valor_Total": 0.0040986976,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-f6283ee8e26154090": {
+                                 "Quantidade_Usada": 0.061944,
+                                 "Valor_Total": 0.0057484032,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-fa91cd996a1fbdc20": {
+                                 "Quantidade_Usada": 0.0475,
+                                 "Valor_Total": 0.004408,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-65cdfde9fef9d1bf0": {
+                                 "Quantidade_Usada": 0.043611,
+                                 "Valor_Total": 0.0040471008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-cf9589365161b5360": {
+                                 "Quantidade_Usada": 0.061944,
+                                 "Valor_Total": 0.0057484032,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0a6dab92ea1d0f8e0": {
+                                 "Quantidade_Usada": 0.044722,
+                                 "Valor_Total": 0.0041502016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-4c83694d0bcb97aa0": {
+                                 "Quantidade_Usada": 0.046111,
+                                 "Valor_Total": 0.0042791008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-0f1a9f93627f0ea90": {
+                                 "Quantidade_Usada": 0.060556,
+                                 "Valor_Total": 0.0056195968,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6ba312173d02554e0": {
+                                 "Quantidade_Usada": 0.058611,
+                                 "Valor_Total": 0.0054391008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ca8270b1c93136ed0": {
+                                 "Quantidade_Usada": 0.043889,
+                                 "Valor_Total": 0.0040728992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-b11a27d227ab7ab20": {
+                                 "Quantidade_Usada": 0.060556,
+                                 "Valor_Total": 0.0056195968,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-56ce8c82ce0ba7500": {
+                                 "Quantidade_Usada": 0.045556,
+                                 "Valor_Total": 0.0042275968,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-c081189c4b0ed98e0": {
+                                 "Quantidade_Usada": 0.045833,
+                                 "Valor_Total": 0.0042533024,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-221e38f985d967880": {
+                                 "Quantidade_Usada": 0.044722,
+                                 "Valor_Total": 0.0041502016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-c40a19f6a454f94f0": {
+                                 "Quantidade_Usada": 0.061667,
+                                 "Valor_Total": 0.0057226976,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6fe407947b4e84250": {
+                                 "Quantidade_Usada": 0.057778,
+                                 "Valor_Total": 0.0053617984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6fd8d8800159dd520": {
+                                 "Quantidade_Usada": 0.061389,
+                                 "Valor_Total": 0.0056968992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-39fb0b7347d421760": {
+                                 "Quantidade_Usada": 0.043611,
+                                 "Valor_Total": 0.0040471008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8a9ae1bde2142da70": {
+                                 "Quantidade_Usada": 0.044722,
+                                 "Valor_Total": 0.0041502016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-41936e6d41fb5b180": {
+                                 "Quantidade_Usada": 0.0525,
+                                 "Valor_Total": 0.004872,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6f132c86f487f4500": {
+                                 "Quantidade_Usada": 0.047222,
+                                 "Valor_Total": 0.0043822016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6570bff4432cc7480": {
+                                 "Quantidade_Usada": 0.0375,
+                                 "Valor_Total": 0.00348,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e745be8f8c529b3c0": {
+                                 "Quantidade_Usada": 0.058889,
+                                 "Valor_Total": 0.0054648992,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-6063dd18e8569c520": {
+                                 "Quantidade_Usada": 0.045278,
+                                 "Valor_Total": 0.0042017984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-eca6cd9517a574a00": {
+                                 "Quantidade_Usada": 0.06,
+                                 "Valor_Total": 0.005568,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-a072ecb7da53e45a0": {
+                                 "Quantidade_Usada": 0.044444,
+                                 "Valor_Total": 0.0041244032,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-5c08ed68d9e4642a0": {
+                                 "Quantidade_Usada": 0.060278,
+                                 "Valor_Total": 0.0055937984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-8e8fcd146c624aef0": {
+                                 "Quantidade_Usada": 0.061111,
+                                 "Valor_Total": 0.0056711008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-15be16f142df8b0c0": {
+                                 "Quantidade_Usada": 0.059722,
+                                 "Valor_Total": 0.0055422016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-7f382fb244e186ce0": {
+                                 "Quantidade_Usada": 0.057778,
+                                 "Valor_Total": 0.0053617984,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-89dfd6c66eb2d0ee0": {
+                                 "Quantidade_Usada": 0.044722,
+                                 "Valor_Total": 0.0041502016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-ab695db2808f633d0": {
+                                 "Quantidade_Usada": 0.043611,
+                                 "Valor_Total": 0.0040471008,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-a6db1578b2e3ebca0": {
+                                 "Quantidade_Usada": 0.062222,
+                                 "Valor_Total": 0.0057742016,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-010428e38163c56f0": {
+                                 "Quantidade_Usada": 0.043333,
+                                 "Valor_Total": 0.0040213024,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-c079ae775f58968f0": {
+                                 "Quantidade_Usada": 0.045833,
+                                 "Valor_Total": 0.0042533024,
+                                 "Regiao": "us-east-1"
+                              }
+                           }
+                        },
+                        "t3a.large | Linux": {
+                           "Valor_Total_do_Tipo_de_Instancia": 0.0739884528,
+                           "Id_da_Instancia": {
+                              "i-bb51e088a878176f0": {
+                                 "Quantidade_Usada": 0.276389,
+                                 "Valor_Total": 0.0207844528,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-afdc82136cfb305f0": {
+                                 "Quantidade_Usada": 0.241111,
+                                 "Valor_Total": 0.0181315472,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-368a45e8f7764ab50": {
+                                 "Quantidade_Usada": 0.187778,
+                                 "Valor_Total": 0.0141209056,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-69a2d187b15d406e0": {
+                                 "Quantidade_Usada": 0.100833,
+                                 "Valor_Total": 0.0075826416,
+                                 "Regiao": "us-east-1"
+                              },
+                              "i-e7ca23004bad40180": {
+                                 "Quantidade_Usada": 0.177778,
+                                 "Valor_Total": 0.0133689056,
+                                 "Regiao": "us-east-1"
+                              }
+                           }
+                        }
+                     },
+                     "VOLUME": {
+                        "gp2": {
+                           "Valor_Total_do_Volume": 467.5290527037217,
+                           "Id_do_Volume": {
+                              "vol-06b9420a970e48560": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-39ca9fd5acdaa0040": {
+                                 "Quantidade_Usada": 30.000000023999714,
+                                 "Valor_Total": 5.700000023999947
+                              },
+                              "vol-17be1ae2fde45b750": {
+                                 "Quantidade_Usada": 100.0000000079992,
+                                 "Valor_Total": 19.00000000800003
+                              },
+                              "vol-944f9075e5adb5220": {
+                                 "Quantidade_Usada": 200.0000000159984,
+                                 "Valor_Total": 38.00000001600006
+                              },
+                              "vol-749866f7ba23c3720": {
+                                 "Quantidade_Usada": 72.91666667249947,
+                                 "Valor_Total": 13.85416667249989
+                              },
+                              "vol-b1b61693a9c14faf0": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-ef1bb4d61a5fa6bb0": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-c8585f98b16dbdbe0": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-ba5be9b72cec7e4b0": {
+                                 "Quantidade_Usada": 20.000000016000318,
+                                 "Valor_Total": 3.800000015999972
+                              },
+                              "vol-47e85a881db7062c0": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-746234e9c0d54d2e0": {
+                                 "Quantidade_Usada": 20.000000016000318,
+                                 "Valor_Total": 3.800000015999972
+                              },
+                              "vol-a51864dc46e3145b0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-3ffd62391ebb940a0": {
+                                 "Quantidade_Usada": 200.0000000159984,
+                                 "Valor_Total": 38.00000001600006
+                              },
+                              "vol-1780adf039e6a6480": {
+                                 "Quantidade_Usada": 20.000000016000318,
+                                 "Valor_Total": 3.800000015999972
+                              },
+                              "vol-d627b54bf8cea1e80": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-a0a435618eae22d20": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-1b6a83b69a5defbe0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-6fae8c9ad73da3c50": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-3e35d4ec77549be50": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-34416fb1f37265610": {
+                                 "Quantidade_Usada": 2.1649691335999943,
+                                 "Valor_Total": 0.41134413360000116
+                              },
+                              "vol-74c790857fe56b0c0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-415ef2f7ad34cbef0": {
+                                 "Quantidade_Usada": 100.0000000079992,
+                                 "Valor_Total": 19.00000000800003
+                              },
+                              "vol-9ce0897600a000ed0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-227b0b8826e55c010": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-048531ae897ca9a20": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-595e900db61bf7df0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-6494611affee5b2c0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-9a80b948fd4667bf0": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-0f1f9f4ab48e1e870": {
+                                 "Quantidade_Usada": 20.000000016000318,
+                                 "Valor_Total": 3.800000015999972
+                              },
+                              "vol-119976db47cb3d100": {
+                                 "Quantidade_Usada": 20.000000016000318,
+                                 "Valor_Total": 3.800000015999972
+                              },
+                              "vol-b5aec064478a201e0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-a6980f8a4e9623240": {
+                                 "Quantidade_Usada": 67.36111111649953,
+                                 "Valor_Total": 12.798611116499902
+                              },
+                              "vol-2cac803e6b3fe3640": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-ce40dd83af2d70a40": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-11539153f96dc14a0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-6945c633aaeb64140": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-6b4a9c5ea7537eee0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-ed80ca102e49b3540": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 9.499999967999912
+                              },
+                              "vol-58d172bc776375ac0": {
+                                 "Quantidade_Usada": 76.25000000609944,
+                                 "Valor_Total": 14.487500006099882
+                              },
+                              "vol-4fa67110914f968d0": {
+                                 "Quantidade_Usada": 4.745933645799988,
+                                 "Valor_Total": 0.9017273958000034
+                              },
+                              "vol-363472caf14e04aa0": {
+                                 "Quantidade_Usada": 5.3333333376000045,
+                                 "Valor_Total": 1.0133333376000015
+                              },
+                              "vol-a5ae3c079185aac90": {
+                                 "Quantidade_Usada": 3.611111108800004,
+                                 "Valor_Total": 0.6861111087999994
+                              },
+                              "vol-14fa0937b03e030f0": {
+                                 "Quantidade_Usada": 0.0555555555,
+                                 "Valor_Total": 0.010555555500000001
+                              },
+                              "vol-ca535a54651b7e0e0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-6bf34611809f660e0": {
+                                 "Quantidade_Usada": 100.0000000079992,
+                                 "Valor_Total": 19.00000000800003
+                              },
+                              "vol-05715eab98f015010": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-18593fc5641f9f0f0": {
+                                 "Quantidade_Usada": 100.0000000079992,
+                                 "Valor_Total": 19.00000000800003
+                              },
+                              "vol-3a55c139214f66e80": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-4cd2990e349073150": {
+                                 "Quantidade_Usada": 349.99999999200094,
+                                 "Valor_Total": 66.49999999199927
+                              },
+                              "vol-6c1b84c3789b9b9b0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-6c42f6a2": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 0.7999999919999892
+                              },
+                              "vol-f10ff130": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 1.5199999920000054
+                              },
+                              "vol-b83fa6ef0a182e930": {
+                                 "Quantidade_Usada": 21.291666683699837,
+                                 "Valor_Total": 2.129166683700001
+                              },
+                              "vol-751965656758d04f0": {
+                                 "Quantidade_Usada": 16.353800143900028,
+                                 "Valor_Total": 1.6353800049999965
+                              },
+                              "vol-f4e604e0f4cf8e1f0": {
+                                 "Quantidade_Usada": 16.498456779600026,
+                                 "Valor_Total": 1.6498456684999963
+                              },
+                              "vol-1c99620abdd19b760": {
+                                 "Quantidade_Usada": 23.000000018399813,
+                                 "Valor_Total": 2.30000001840001
+                              },
+                              "vol-21362c52c240451a0": {
+                                 "Quantidade_Usada": 30.000000023999714,
+                                 "Valor_Total": 3.000000024000045
+                              },
+                              "vol-52d493e02ea814980": {
+                                 "Quantidade_Usada": 30.000000023999714,
+                                 "Valor_Total": 3.000000024000045
+                              },
+                              "vol-df0f291cd141ae8d0": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 4.999999968000078
+                              },
+                              "vol-1e7829108d5c5cdc0": {
+                                 "Quantidade_Usada": 20.451658937599934,
+                                 "Valor_Total": 2.045165881999996
+                              },
+                              "vol-882ea32f5573c1160": {
+                                 "Quantidade_Usada": 9.166666674000007,
+                                 "Valor_Total": 0.9166666739999978
+                              },
+                              "vol-eb8db74c8e284ad80": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 4.999999968000078
+                              },
+                              "vol-4534b061fad6c9570": {
+                                 "Quantidade_Usada": 13.44679783090003,
+                                 "Valor_Total": 1.3446797753999977
+                              },
+                              "vol-383d2dd99616bcd60": {
+                                 "Quantidade_Usada": 30.000000023999714,
+                                 "Valor_Total": 3.000000024000045
+                              },
+                              "vol-71685739f0aa8d060": {
+                                 "Quantidade_Usada": 0.0095555556,
+                                 "Valor_Total": 0.0009555556
+                              },
+                              "vol-6d06b73868b6af450": {
+                                 "Quantidade_Usada": 10.000000008000159,
+                                 "Valor_Total": 1.0000000079999976
+                              },
+                              "vol-c4479f146dd133180": {
+                                 "Quantidade_Usada": 40.000000032000635,
+                                 "Valor_Total": 4.00000003199999
+                              },
+                              "vol-b8c20d0f4ac98d670": {
+                                 "Quantidade_Usada": 5.359587187900009,
+                                 "Valor_Total": 0.5359587157000009
+                              },
+                              "vol-1d14d222a9dc376e0": {
+                                 "Quantidade_Usada": 7.999999991999974,
+                                 "Valor_Total": 0.7999999919999892
+                              },
+                              "vol-206d61afa31855230": {
+                                 "Quantidade_Usada": 20.061527793799854,
+                                 "Valor_Total": 2.006152793799995
+                              },
+                              "vol-35bee5cd130aa5b90": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 4.999999968000078
+                              },
+                              "vol-ee3b485b420c7e1e0": {
+                                 "Quantidade_Usada": 5.323225305300008,
+                                 "Valor_Total": 0.5323225275000009
+                              },
+                              "vol-a37de5cc93418f220": {
+                                 "Quantidade_Usada": 21.16666668359984,
+                                 "Valor_Total": 2.1166666836000005
+                              },
+                              "vol-f004f41db833bad50": {
+                                 "Quantidade_Usada": 49.999999967999265,
+                                 "Valor_Total": 4.999999968000078
+                              },
+                              "vol-37cd15d6249ebab50": {
+                                 "Quantidade_Usada": 0.0029552469,
+                                 "Valor_Total": 0.0002955247
+                              },
+                              "vol-1024b0fbd73102db0": {
+                                 "Quantidade_Usada": 0.000558642,
+                                 "Valor_Total": 5.58642e-05
+                              },
+                              "vol-63501747d71e5a340": {
+                                 "Quantidade_Usada": 8.715219914400013,
+                                 "Valor_Total": 0.8715219976999979
+                              },
+                              "vol-3c21281c18df73fd0": {
+                                 "Quantidade_Usada": 8.826099544100012,
+                                 "Valor_Total": 0.8826099606999979
+                              },
+                              "vol-fa49abb1c98807790": {
+                                 "Quantidade_Usada": 0.0006450617,
+                                 "Valor_Total": 6.45062e-05
+                              },
+                              "vol-49423989dc8d8ce10": {
+                                 "Quantidade_Usada": 8.263888883600016,
+                                 "Valor_Total": 0.8263888835999996
+                              },
+                              "vol-b1ca8b52df6897420": {
+                                 "Quantidade_Usada": 20.374575604299938,
+                                 "Valor_Total": 2.037457548699996
+                              },
+                              "vol-a0644f3c22dcea690": {
+                                 "Quantidade_Usada": 6.4166473725000115,
+                                 "Valor_Total": 0.6416647336000004
+                              },
+                              "vol-19815915b4d01fcb0": {
+                                 "Quantidade_Usada": 6.378819440400012,
+                                 "Valor_Total": 0.6378819404000005
+                              },
+                              "vol-40b5fe0e4efeae1b0": {
+                                 "Quantidade_Usada": 16.537557859800025,
+                                 "Valor_Total": 1.6537557764999964
+                              },
+                              "vol-fa45f15dc9d9dad90": {
+                                 "Quantidade_Usada": 6.987743061100016,
+                                 "Valor_Total": 0.6987743110999984
+                              },
+                              "vol-8955933954b377010": {
+                                 "Quantidade_Usada": 0.0006018519,
+                                 "Valor_Total": 6.01852e-05
+                              },
+                              "vol-20e0fe7a8797574a0": {
+                                 "Quantidade_Usada": 0.0005617284,
+                                 "Valor_Total": 5.61728e-05
+                              },
+                              "vol-39935a8006e57a250": {
+                                 "Quantidade_Usada": 5.356712959500008,
+                                 "Valor_Total": 0.5356712929000008
+                              },
+                              "vol-2ebb46e9327aeb470": {
+                                 "Quantidade_Usada": 1.3888888879999997,
+                                 "Valor_Total": 0.13888888800000002
+                              },
+                              "vol-f2f4113d458410f00": {
+                                 "Quantidade_Usada": 0.01,
+                                 "Valor_Total": 0.001
+                              },
+                              "vol-1a0da02bcc8a425f0": {
+                                 "Quantidade_Usada": 0.0036080247,
+                                 "Valor_Total": 0.0003608025
+                              },
+                              "vol-68e72b69c14a49240": {
+                                 "Quantidade_Usada": 0.0098518519,
+                                 "Valor_Total": 0.0009851852
+                              },
+                              "vol-ed22369bb0972af60": {
+                                 "Quantidade_Usada": 0.0030401235,
+                                 "Valor_Total": 0.0003040124
+                              },
+                              "vol-4b892959b5ea3f9a0": {
+                                 "Quantidade_Usada": 0.0044791667,
+                                 "Valor_Total": 0.0004479167
+                              },
+                              "vol-a545ea93faa6f4070": {
+                                 "Quantidade_Usada": 0.0006141975,
+                                 "Valor_Total": 6.14198e-05
+                              },
+                              "vol-221bfa476c3fab750": {
+                                 "Quantidade_Usada": 0.009691358,
+                                 "Valor_Total": 0.0009691358
+                              },
+                              "vol-3bec1261b62e06040": {
+                                 "Quantidade_Usada": 0.0006481481,
+                                 "Valor_Total": 6.48148e-05
+                              },
+                              "vol-847d67a870396f480": {
+                                 "Quantidade_Usada": 6.449421292200012,
+                                 "Valor_Total": 0.6449421255000004
+                              },
+                              "vol-e2b59a8e73029a9a0": {
+                                 "Quantidade_Usada": 1.3194444435999997,
+                                 "Valor_Total": 0.13194444360000002
+                              },
+                              "vol-643c223f349450780": {
+                                 "Quantidade_Usada": 0.0030362654,
+                                 "Valor_Total": 0.0003036265
+                              },
+                              "vol-0dda0337ca6bf75e0": {
+                                 "Quantidade_Usada": 0.0094938272,
+                                 "Valor_Total": 0.0009493827
+                              },
+                              "vol-29360c04eacead490": {
+                                 "Quantidade_Usada": 0.0006080247,
+                                 "Valor_Total": 6.08025e-05
+                              },
+                              "vol-f6f677abc01d71e70": {
+                                 "Quantidade_Usada": 0.0006388889,
+                                 "Valor_Total": 6.38889e-05
+                              },
+                              "vol-cd3e6796af4186060": {
+                                 "Quantidade_Usada": 0.0006111111,
+                                 "Valor_Total": 6.11111e-05
+                              },
+                              "vol-9b8c3adbfcd2b89c0": {
+                                 "Quantidade_Usada": 0.0008395062,
+                                 "Valor_Total": 8.39506e-05
+                              },
+                              "vol-231714e8c9543c150": {
+                                 "Quantidade_Usada": 0.0026350309,
+                                 "Valor_Total": 0.0002635031
+                              },
+                              "vol-36d397e0263daa360": {
+                                 "Quantidade_Usada": 0.0007777778,
+                                 "Valor_Total": 7.77778e-05
+                              },
+                              "vol-4e569549fd53fb630": {
+                                 "Quantidade_Usada": 0.002966821,
+                                 "Valor_Total": 0.0002966821
+                              },
+                              "vol-e6a00b5d33b203ef0": {
+                                 "Quantidade_Usada": 0.0028742284,
+                                 "Valor_Total": 0.0002874228
+                              },
+                              "vol-066ec01b5b02c1140": {
+                                 "Quantidade_Usada": 0.0005555556,
+                                 "Valor_Total": 5.55556e-05
+                              },
+                              "vol-bda2955b8606b5ae0": {
+                                 "Quantidade_Usada": 0.0084691358,
+                                 "Valor_Total": 0.0008469136
+                              },
+                              "vol-5be175097816baee0": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-7caa34d40a177b280": {
+                                 "Quantidade_Usada": 0.0006697531,
+                                 "Valor_Total": 6.69753e-05
+                              },
+                              "vol-0dc6c72a604098df0": {
+                                 "Quantidade_Usada": 0.0005493827,
+                                 "Valor_Total": 5.49383e-05
+                              },
+                              "vol-5ea6d095443334010": {
+                                 "Quantidade_Usada": 0.0007808642,
+                                 "Valor_Total": 7.80864e-05
+                              },
+                              "vol-d31aca0ba7c3d7480": {
+                                 "Quantidade_Usada": 0.0030324074,
+                                 "Valor_Total": 0.0003032407
+                              },
+                              "vol-6d1c765ada6c64770": {
+                                 "Quantidade_Usada": 0.002966821,
+                                 "Valor_Total": 0.0002966821
+                              },
+                              "vol-9e745d2aa945ac660": {
+                                 "Quantidade_Usada": 0.0005864198,
+                                 "Valor_Total": 5.8642e-05
+                              },
+                              "vol-fcdd11cf662083ad0": {
+                                 "Quantidade_Usada": 0.0094938272,
+                                 "Valor_Total": 0.0009493827
+                              },
+                              "vol-83b691a2dc99acd30": {
+                                 "Quantidade_Usada": 0.0099382716,
+                                 "Valor_Total": 0.0009938272
+                              },
+                              "vol-d7cd0599994adf7f0": {
+                                 "Quantidade_Usada": 0.0030671296,
+                                 "Valor_Total": 0.000306713
+                              },
+                              "vol-07078f050145ecc00": {
+                                 "Quantidade_Usada": 0.0030285494,
+                                 "Valor_Total": 0.0003028549
+                              },
+                              "vol-3440e2b9bd54cd180": {
+                                 "Quantidade_Usada": 0.0096790123,
+                                 "Valor_Total": 0.0009679012
+                              },
+                              "vol-a66e866be47a750e0": {
+                                 "Quantidade_Usada": 0.0096790123,
+                                 "Valor_Total": 0.0009679012
+                              },
+                              "vol-6a611fe153968cdd0": {
+                                 "Quantidade_Usada": 0.0006388889,
+                                 "Valor_Total": 6.38889e-05
+                              },
+                              "vol-1eb72f3ebeea4c320": {
+                                 "Quantidade_Usada": 0.0006018519,
+                                 "Valor_Total": 6.01852e-05
+                              },
+                              "vol-bac86e009de712f60": {
+                                 "Quantidade_Usada": 0.0099382716,
+                                 "Valor_Total": 0.0009938272
+                              },
+                              "vol-e7dda5c04ea154870": {
+                                 "Quantidade_Usada": 0.0006111111,
+                                 "Valor_Total": 6.11111e-05
+                              },
+                              "vol-0ad33df1ffdcef740": {
+                                 "Quantidade_Usada": 0.000617284,
+                                 "Valor_Total": 6.17284e-05
+                              },
+                              "vol-d8e7cf6918c8d11a0": {
+                                 "Quantidade_Usada": 0.0031057099,
+                                 "Valor_Total": 0.000310571
+                              },
+                              "vol-cb75499b3ce6b2d50": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-363dce15df2ab6ea0": {
+                                 "Quantidade_Usada": 0.002974537,
+                                 "Valor_Total": 0.0002974537
+                              },
+                              "vol-1fceb753655746c20": {
+                                 "Quantidade_Usada": 0.0006388889,
+                                 "Valor_Total": 6.38889e-05
+                              },
+                              "vol-d5ea88a9752468fb0": {
+                                 "Quantidade_Usada": 0.0030439815,
+                                 "Valor_Total": 0.0003043982
+                              },
+                              "vol-67b2e8397a13b93b0": {
+                                 "Quantidade_Usada": 0.7415046301999999,
+                                 "Valor_Total": 0.07415046350000001
+                              },
+                              "vol-7412aa24357756bc0": {
+                                 "Quantidade_Usada": 0.0095555556,
+                                 "Valor_Total": 0.0009555556
+                              },
+                              "vol-a295da1c1cf133ab0": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-f74103645e8c1f720": {
+                                 "Quantidade_Usada": 0.000654321,
+                                 "Valor_Total": 6.54321e-05
+                              },
+                              "vol-88f5950375cec3af0": {
+                                 "Quantidade_Usada": 0.0005679012,
+                                 "Valor_Total": 5.67901e-05
+                              },
+                              "vol-58f619c335e1e3e00": {
+                                 "Quantidade_Usada": 0.0026273148,
+                                 "Valor_Total": 0.0002627315
+                              },
+                              "vol-2e4659dd7ca6991e0": {
+                                 "Quantidade_Usada": 0.0006265432,
+                                 "Valor_Total": 6.26543e-05
+                              },
+                              "vol-9b6937f21326c8730": {
+                                 "Quantidade_Usada": 0.002662037,
+                                 "Valor_Total": 0.0002662037
+                              },
+                              "vol-0b825c31c71013600": {
+                                 "Quantidade_Usada": 0.0005925926,
+                                 "Valor_Total": 5.92593e-05
+                              },
+                              "vol-51a6654d830724110": {
+                                 "Quantidade_Usada": 0.0029320988,
+                                 "Valor_Total": 0.0002932099
+                              },
+                              "vol-8335ba0880cba03a0": {
+                                 "Quantidade_Usada": 0.0096419753,
+                                 "Valor_Total": 0.0009641975
+                              },
+                              "vol-304c9a84bdbe9c3d0": {
+                                 "Quantidade_Usada": 0.0006234568,
+                                 "Valor_Total": 6.23457e-05
+                              },
+                              "vol-18cca7d4ee3c13520": {
+                                 "Quantidade_Usada": 0.0119097222,
+                                 "Valor_Total": 0.0011909722
+                              },
+                              "vol-b28afd17084d23550": {
+                                 "Quantidade_Usada": 0.002962963,
+                                 "Valor_Total": 0.0002962963
+                              },
+                              "vol-2d5c5481f68c26840": {
+                                 "Quantidade_Usada": 0.000632716,
+                                 "Valor_Total": 6.32716e-05
+                              },
+                              "vol-a1dbdc84983671610": {
+                                 "Quantidade_Usada": 0.0006388889,
+                                 "Valor_Total": 6.38889e-05
+                              },
+                              "vol-61e234565b9d09ec0": {
+                                 "Quantidade_Usada": 0.000712963,
+                                 "Valor_Total": 7.12963e-05
+                              },
+                              "vol-b81fe1b66b4499db0": {
+                                 "Quantidade_Usada": 0.0007993827,
+                                 "Valor_Total": 7.99383e-05
+                              },
+                              "vol-84d255f1cc2313640": {
+                                 "Quantidade_Usada": 0.0094938272,
+                                 "Valor_Total": 0.0009493827
+                              },
+                              "vol-93d78876a07212f50": {
+                                 "Quantidade_Usada": 0.0006851852,
+                                 "Valor_Total": 6.85185e-05
+                              },
+                              "vol-1fa89086fbcf028a0": {
+                                 "Quantidade_Usada": 0.0030169753,
+                                 "Valor_Total": 0.0003016975
+                              },
+                              "vol-52f8cb90634670e40": {
+                                 "Quantidade_Usada": 0.0098765432,
+                                 "Valor_Total": 0.0009876543
+                              },
+                              "vol-88c645405a8cc8090": {
+                                 "Quantidade_Usada": 0.0029128086,
+                                 "Valor_Total": 0.0002912809
+                              },
+                              "vol-0b470ccc89bea8350": {
+                                 "Quantidade_Usada": 0.0098641975,
+                                 "Valor_Total": 0.0009864198
+                              },
+                              "vol-049fe4d25f3a98ea0": {
+                                 "Quantidade_Usada": 0.0005864198,
+                                 "Valor_Total": 5.8642e-05
+                              },
+                              "vol-878e2ed7981c10fe0": {
+                                 "Quantidade_Usada": 0.0083703704,
+                                 "Valor_Total": 0.000837037
+                              },
+                              "vol-e70b87d7c19679590": {
+                                 "Quantidade_Usada": 0.0030362654,
+                                 "Valor_Total": 0.0003036265
+                              },
+                              "vol-83a1a43a9090dcb70": {
+                                 "Quantidade_Usada": 0.0026234568,
+                                 "Valor_Total": 0.0002623457
+                              },
+                              "vol-92d500a0771e23f20": {
+                                 "Quantidade_Usada": 0.0029976852,
+                                 "Valor_Total": 0.0002997685
+                              },
+                              "vol-3f0bd9a5a24b63550": {
+                                 "Quantidade_Usada": 0.0026466049,
+                                 "Valor_Total": 0.0002646605
+                              },
+                              "vol-988450a132972daa0": {
+                                 "Quantidade_Usada": 0.0030285494,
+                                 "Valor_Total": 0.0003028549
+                              },
+                              "vol-fad90014788faa790": {
+                                 "Quantidade_Usada": 0.0280671296,
+                                 "Valor_Total": 0.002806713
+                              },
+                              "vol-855d436b85fd9cf20": {
+                                 "Quantidade_Usada": 0.0094814815,
+                                 "Valor_Total": 0.0009481482
+                              },
+                              "vol-37e2e2a6b8f597fa0": {
+                                 "Quantidade_Usada": 0.0031057099,
+                                 "Valor_Total": 0.000310571
+                              },
+                              "vol-89f4d75ec83274430": {
+                                 "Quantidade_Usada": 0.0007901235,
+                                 "Valor_Total": 7.90124e-05
+                              },
+                              "vol-0a10a494771b499d0": {
+                                 "Quantidade_Usada": 0.0279128086,
+                                 "Valor_Total": 0.0027912809
+                              },
+                              "vol-dc1bd1fdbb0722300": {
+                                 "Quantidade_Usada": 0.0030671296,
+                                 "Valor_Total": 0.000306713
+                              },
+                              "vol-e8dc22191dc346270": {
+                                 "Quantidade_Usada": 0.0030941358,
+                                 "Valor_Total": 0.0003094136
+                              },
+                              "vol-bd0b8e0bc3dd95880": {
+                                 "Quantidade_Usada": 0.000617284,
+                                 "Valor_Total": 6.17284e-05
+                              },
+                              "vol-c239e609950a8fd00": {
+                                 "Quantidade_Usada": 0.0099382716,
+                                 "Valor_Total": 0.0009938272
+                              },
+                              "vol-b778ec83d89f4ecc0": {
+                                 "Quantidade_Usada": 0.0006481481,
+                                 "Valor_Total": 6.48148e-05
+                              },
+                              "vol-11372e6b33ff2e280": {
+                                 "Quantidade_Usada": 0.0006450617,
+                                 "Valor_Total": 6.45062e-05
+                              },
+                              "vol-bf39b51fc6d422b60": {
+                                 "Quantidade_Usada": 0.0008024691,
+                                 "Valor_Total": 8.02469e-05
+                              },
+                              "vol-ecae1ead993788700": {
+                                 "Quantidade_Usada": 0.0097654321,
+                                 "Valor_Total": 0.0009765432
+                              },
+                              "vol-91acc8ddc3ef20170": {
+                                 "Quantidade_Usada": 0.0007932099,
+                                 "Valor_Total": 7.9321e-05
+                              },
+                              "vol-d92d5f1c944ba9a90": {
+                                 "Quantidade_Usada": 0.0007901235,
+                                 "Valor_Total": 7.90124e-05
+                              },
+                              "vol-d1f7f40c487dc8f40": {
+                                 "Quantidade_Usada": 0.009617284,
+                                 "Valor_Total": 0.0009617284
+                              },
+                              "vol-4c50488bbffbddb50": {
+                                 "Quantidade_Usada": 0.0007932099,
+                                 "Valor_Total": 7.9321e-05
+                              },
+                              "vol-0e6663fa39c6ed510": {
+                                 "Quantidade_Usada": 0.0095308642,
+                                 "Valor_Total": 0.0009530864
+                              },
+                              "vol-387cfc6f60b351c30": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-d092c8c65d70dbab0": {
+                                 "Quantidade_Usada": 0.0030748457,
+                                 "Valor_Total": 0.0003074846
+                              },
+                              "vol-dfa7ed4e95ce109f0": {
+                                 "Quantidade_Usada": 0.0030941358,
+                                 "Valor_Total": 0.0003094136
+                              },
+                              "vol-9799f79a2777bf0d0": {
+                                 "Quantidade_Usada": 0.0084320988,
+                                 "Valor_Total": 0.0008432099
+                              },
+                              "vol-9159d106de30d4f50": {
+                                 "Quantidade_Usada": 0.0006666667,
+                                 "Valor_Total": 6.66667e-05
+                              },
+                              "vol-7c8508817b43c8be0": {
+                                 "Quantidade_Usada": 0.0006450617,
+                                 "Valor_Total": 6.45062e-05
+                              },
+                              "vol-8d81b6a5aa0c28610": {
+                                 "Quantidade_Usada": 0.0006975309,
+                                 "Valor_Total": 6.97531e-05
+                              },
+                              "vol-d1745109116e211d0": {
+                                 "Quantidade_Usada": 0.0008302469,
+                                 "Valor_Total": 8.30247e-05
+                              },
+                              "vol-518abc1ac17614d30": {
+                                 "Quantidade_Usada": 0.0097530864,
+                                 "Valor_Total": 0.0009753086
+                              },
+                              "vol-45577305ce48713f0": {
+                                 "Quantidade_Usada": 0.0026157407,
+                                 "Valor_Total": 0.0002615741
+                              },
+                              "vol-3242e53257d95e2f0": {
+                                 "Quantidade_Usada": 0.0202160494,
+                                 "Valor_Total": 0.0020216049
+                              },
+                              "vol-e5f0acb35dd408760": {
+                                 "Quantidade_Usada": 0.0026466049,
+                                 "Valor_Total": 0.0002646605
+                              },
+                              "vol-c370f5cd66c4834b0": {
+                                 "Quantidade_Usada": 0.0006203704,
+                                 "Valor_Total": 6.2037e-05
+                              },
+                              "vol-e7b517b819caca3a0": {
+                                 "Quantidade_Usada": 0.0030478395,
+                                 "Valor_Total": 0.000304784
+                              },
+                              "vol-fc9e50da8a5da5480": {
+                                 "Quantidade_Usada": 0.0005740741,
+                                 "Valor_Total": 5.74074e-05
+                              },
+                              "vol-b662c7cbf0c1407e0": {
+                                 "Quantidade_Usada": 0.0029552469,
+                                 "Valor_Total": 0.0002955247
+                              },
+                              "vol-f75b5ad9105edd720": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-1989389cb27230ed0": {
+                                 "Quantidade_Usada": 0.0026967593,
+                                 "Valor_Total": 0.0002696759
+                              },
+                              "vol-fa7243de979dd7fa0": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-d206964cd89362460": {
+                                 "Quantidade_Usada": 0.0007962963,
+                                 "Valor_Total": 7.96296e-05
+                              },
+                              "vol-9d3b53ef485d1c450": {
+                                 "Quantidade_Usada": 0.0084074074,
+                                 "Valor_Total": 0.0008407407
+                              },
+                              "vol-77b66959bcb551d10": {
+                                 "Quantidade_Usada": 0.0095185185,
+                                 "Valor_Total": 0.0009518519
+                              },
+                              "vol-bfc5c74cf9eb226d0": {
+                                 "Quantidade_Usada": 0.0079861111,
+                                 "Valor_Total": 0.0007986111
+                              },
+                              "vol-e6ad13e2319fe0d90": {
+                                 "Quantidade_Usada": 0.0093209877,
+                                 "Valor_Total": 0.0009320988
+                              },
+                              "vol-f043926ff0557e9c0": {
+                                 "Quantidade_Usada": 0.0006296296,
+                                 "Valor_Total": 6.2963e-05
+                              },
+                              "vol-46eb2f5818f110c00": {
+                                 "Quantidade_Usada": 0.0008703704,
+                                 "Valor_Total": 8.7037e-05
+                              },
+                              "vol-c1c0905882771fc40": {
+                                 "Quantidade_Usada": 0.0006141975,
+                                 "Valor_Total": 6.14198e-05
+                              },
+                              "vol-bfc1510a802390720": {
+                                 "Quantidade_Usada": 0.0029050926,
+                                 "Valor_Total": 0.0002905093
+                              },
+                              "vol-e3f042c8c29195080": {
+                                 "Quantidade_Usada": 0.0029938272,
+                                 "Valor_Total": 0.0002993827
+                              },
+                              "vol-be1466be5b14ec0c0": {
+                                 "Quantidade_Usada": 0.0006388889,
+                                 "Valor_Total": 6.38889e-05
+                              },
+                              "vol-19fd14b5b72c19240": {
+                                 "Quantidade_Usada": 0.000867284,
+                                 "Valor_Total": 8.67284e-05
+                              },
+                              "vol-fd4813dff37534df0": {
+                                 "Quantidade_Usada": 0.0007438272,
+                                 "Valor_Total": 7.43827e-05
+                              },
+                              "vol-1fbd6d1cad6d46540": {
+                                 "Quantidade_Usada": 0.0097530864,
+                                 "Valor_Total": 0.0009753086
+                              },
+                              "vol-177d022e1137bf010": {
+                                 "Quantidade_Usada": 0.0030131173,
+                                 "Valor_Total": 0.0003013117
+                              },
+                              "vol-d45da61c929144cd0": {
+                                 "Quantidade_Usada": 0.0005524691,
+                                 "Valor_Total": 5.52469e-05
+                              },
+                              "vol-a2f285f75ed40d570": {
+                                 "Quantidade_Usada": 0.008125,
+                                 "Valor_Total": 0.0008125
+                              },
+                              "vol-58e9243e69934edd0": {
+                                 "Quantidade_Usada": 0.0098395062,
+                                 "Valor_Total": 0.0009839506
+                              },
+                              "vol-b12e3979664c96430": {
+                                 "Quantidade_Usada": 0.0094567901,
+                                 "Valor_Total": 0.000945679
+                              },
+                              "vol-42568950850c43e00": {
+                                 "Quantidade_Usada": 0.0024845679,
+                                 "Valor_Total": 0.0002484568
+                              },
+                              "vol-f93e3347762daa9b0": {
+                                 "Quantidade_Usada": 0.0101358025,
+                                 "Valor_Total": 0.0010135803
+                              },
+                              "vol-a0db7568df08bfee0": {
+                                 "Quantidade_Usada": 0.0109375,
+                                 "Valor_Total": 0.00109375
+                              },
+                              "vol-62c9c860667e43a40": {
+                                 "Quantidade_Usada": 0.0096790123,
+                                 "Valor_Total": 0.0009679012
+                              },
+                              "vol-4a4a25fd0a4ee0cc0": {
+                                 "Quantidade_Usada": 0.0084320988,
+                                 "Valor_Total": 0.0008432099
+                              },
+                              "vol-2d729a3350995f2f0": {
+                                 "Quantidade_Usada": 0.0094567901,
+                                 "Valor_Total": 0.000945679
+                              },
+                              "vol-d467ab8c991adcb30": {
+                                 "Quantidade_Usada": 0.0031057099,
+                                 "Valor_Total": 0.000310571
+                              },
+                              "vol-52f9fd73ef2aded20": {
+                                 "Quantidade_Usada": 0.0007901235,
+                                 "Valor_Total": 7.90124e-05
+                              },
+                              "vol-4ff128bbf74006250": {
+                                 "Quantidade_Usada": 0.0030092593,
+                                 "Valor_Total": 0.0003009259
+                              },
+                              "vol-70e23796ddd314580": {
+                                 "Quantidade_Usada": 0.0087901235,
+                                 "Valor_Total": 0.0008790124
+                              },
+                              "vol-b0b850c9afcafe270": {
+                                 "Quantidade_Usada": 0.0006450617,
+                                 "Valor_Total": 6.45062e-05
+                              },
+                              "vol-b60861eded0abf5d0": {
+                                 "Quantidade_Usada": 0.002650463,
+                                 "Valor_Total": 0.0002650463
+                              },
+                              "vol-d62eebf1b379b1f10": {
+                                 "Quantidade_Usada": 0.0030787037,
+                                 "Valor_Total": 0.0003078704
+                              },
+                              "vol-b59b3befc4de56890": {
+                                 "Quantidade_Usada": 0.0030594136,
+                                 "Valor_Total": 0.0003059414
+                              },
+                              "vol-0f191787faed03db0": {
+                                 "Quantidade_Usada": 0.0006018519,
+                                 "Valor_Total": 6.01852e-05
+                              },
+                              "vol-cbd87023e892b4970": {
+                                 "Quantidade_Usada": 0.0031018519,
+                                 "Valor_Total": 0.0003101852
+                              },
+                              "vol-a20e2fa541a572e50": {
+                                 "Quantidade_Usada": 0.0097654321,
+                                 "Valor_Total": 0.0009765432
+                              },
+                              "vol-c03394e310e03f9f0": {
+                                 "Quantidade_Usada": 0.0098024691,
+                                 "Valor_Total": 0.0009802469
+                              },
+                              "vol-99fb934dc6d782e20": {
+                                 "Quantidade_Usada": 0.0279513889,
+                                 "Valor_Total": 0.0027951389
+                              },
+                              "vol-37df844f72ca5eb40": {
+                                 "Quantidade_Usada": 0.0080246914,
+                                 "Valor_Total": 0.0008024691
+                              },
+                              "vol-a7be9dff733739d30": {
+                                 "Quantidade_Usada": 0.0099135802,
+                                 "Valor_Total": 0.000991358
+                              },
+                              "vol-8f80a53704f885ef0": {
+                                 "Quantidade_Usada": 0.0011018519,
+                                 "Valor_Total": 0.0001101852
+                              },
+                              "vol-fc5aa7effe67d8820": {
+                                 "Quantidade_Usada": 0.0006111111,
+                                 "Valor_Total": 6.11111e-05
+                              },
+                              "vol-baddd561f0573f9c0": {
+                                 "Quantidade_Usada": 0.0007808642,
+                                 "Valor_Total": 7.80864e-05
+                              },
+                              "vol-d21eb59f63be34360": {
+                                 "Quantidade_Usada": 0.0030671296,
+                                 "Valor_Total": 0.000306713
+                              },
+                              "vol-9c7eef4ab3434c880": {
+                                 "Quantidade_Usada": 0.0096296296,
+                                 "Valor_Total": 0.000962963
+                              },
+                              "vol-13c5190f1962d86c0": {
+                                 "Quantidade_Usada": 0.0099259259,
+                                 "Valor_Total": 0.0009925926
+                              },
+                              "vol-98e188516a2e9aed0": {
+                                 "Quantidade_Usada": 0.0029166667,
+                                 "Valor_Total": 0.0002916667
+                              },
+                              "vol-6d55976b9fb25ffc0": {
+                                 "Quantidade_Usada": 0.0007067901,
+                                 "Valor_Total": 7.0679e-05
+                              },
+                              "vol-5887cd35b660a6d10": {
+                                 "Quantidade_Usada": 0.0027469136,
+                                 "Valor_Total": 0.0002746914
+                              },
+                              "vol-3963aee1791f593e0": {
+                                 "Quantidade_Usada": 0.0030208333,
+                                 "Valor_Total": 0.0003020833
+                              },
+                              "vol-cb7f1bdebdae58140": {
+                                 "Quantidade_Usada": 0.0006049383,
+                                 "Valor_Total": 6.04938e-05
+                              },
+                              "vol-fca8b8e6a8a6ce5b0": {
+                                 "Quantidade_Usada": 0.0094444444,
+                                 "Valor_Total": 0.0009444444
+                              },
+                              "vol-865899d2776f751e0": {
+                                 "Quantidade_Usada": 0.0095185185,
+                                 "Valor_Total": 0.0009518519
+                              },
+                              "vol-35b5d79dddd718af0": {
+                                 "Quantidade_Usada": 0.0290895062,
+                                 "Valor_Total": 0.0029089506
+                              },
+                              "vol-8036757edf2951400": {
+                                 "Quantidade_Usada": 0.000617284,
+                                 "Valor_Total": 6.17284e-05
+                              },
+                              "vol-bc735decd360fd820": {
+                                 "Quantidade_Usada": 0.0099135802,
+                                 "Valor_Total": 0.000991358
+                              },
+                              "vol-98174fe5998e339d0": {
+                                 "Quantidade_Usada": 0.0006141975,
+                                 "Valor_Total": 6.14198e-05
+                              },
+                              "vol-ee70f72399d8660d0": {
+                                 "Quantidade_Usada": 0.0005617284,
+                                 "Valor_Total": 5.61728e-05
+                              },
+                              "vol-1781288e3256bfe40": {
+                                 "Quantidade_Usada": 0.0085061728,
+                                 "Valor_Total": 0.0008506173
+                              },
+                              "vol-0fd1e8f15d8f8bf80": {
+                                 "Quantidade_Usada": 0.0006049383,
+                                 "Valor_Total": 6.04938e-05
+                              },
+                              "vol-6151f0b6997fb7a50": {
+                                 "Quantidade_Usada": 0.0097283951,
+                                 "Valor_Total": 0.0009728395
+                              },
+                              "vol-7b251f9227fd71ae0": {
+                                 "Quantidade_Usada": 0.0085679012,
+                                 "Valor_Total": 0.0008567901
+                              },
+                              "vol-fe959c1f1d2123b90": {
+                                 "Quantidade_Usada": 0.0008179012,
+                                 "Valor_Total": 8.17901e-05
+                              },
+                              "vol-4f153e48e2a577040": {
+                                 "Quantidade_Usada": 0.0098148148,
+                                 "Valor_Total": 0.0009814815
+                              },
+                              "vol-5d4d86741e1b9dbe0": {
+                                 "Quantidade_Usada": 0.0096790123,
+                                 "Valor_Total": 0.0009679012
+                              },
+                              "vol-260e2cc3c2bb0e8b0": {
+                                 "Quantidade_Usada": 0.0029899691,
+                                 "Valor_Total": 0.0002989969
+                              },
+                              "vol-b77f4b7de65c6cc90": {
+                                 "Quantidade_Usada": 0.009654321,
+                                 "Valor_Total": 0.0009654321
+                              },
+                              "vol-01214e77db55331e0": {
+                                 "Quantidade_Usada": 0.000632716,
+                                 "Valor_Total": 6.32716e-05
+                              },
+                              "vol-80576f93b47859160": {
+                                 "Quantidade_Usada": 0.0030555556,
+                                 "Valor_Total": 0.0003055556
+                              },
+                              "vol-917d611aaa50505e0": {
+                                 "Quantidade_Usada": 0.003117284,
+                                 "Valor_Total": 0.0003117284
+                              },
+                              "vol-f7d527688c9300220": {
+                                 "Quantidade_Usada": 0.000617284,
+                                 "Valor_Total": 6.17284e-05
+                              },
+                              "vol-507536bfa5311a740": {
+                                 "Quantidade_Usada": 0.002966821,
+                                 "Valor_Total": 0.0002966821
+                              },
+                              "vol-c86381c9d61644d60": {
+                                 "Quantidade_Usada": 0.0084320988,
+                                 "Valor_Total": 0.0008432099
+                              },
+                              "vol-1bf6493264a511f80": {
+                                 "Quantidade_Usada": 0.000617284,
+                                 "Valor_Total": 6.17284e-05
+                              },
+                              "vol-ea40d549220828920": {
+                                 "Quantidade_Usada": 0.0083703704,
+                                 "Valor_Total": 0.000837037
+                              },
+                              "vol-b8172f75bac52a4e0": {
+                                 "Quantidade_Usada": 0.0029822531,
+                                 "Valor_Total": 0.0002982253
+                              },
+                              "vol-d4f0a744c00afdcc0": {
+                                 "Quantidade_Usada": 0.0005740741,
+                                 "Valor_Total": 5.74074e-05
+                              },
+                              "vol-2cc2a803dcd481140": {
+                                 "Quantidade_Usada": 0.0006296296,
+                                 "Valor_Total": 6.2963e-05
+                              },
+                              "vol-77ecdab3dee4a96a0": {
+                                 "Quantidade_Usada": 0.0289930556,
+                                 "Valor_Total": 0.0028993056
+                              },
+                              "vol-0966f17c4b75ed530": {
+                                 "Quantidade_Usada": 0.0098148148,
+                                 "Valor_Total": 0.0009814815
+                              },
+                              "vol-4ed1f43919a15b070": {
+                                 "Quantidade_Usada": 0.0006234568,
+                                 "Valor_Total": 6.23457e-05
+                              },
+                              "vol-379857437b33eef40": {
+                                 "Quantidade_Usada": 0.0006790123,
+                                 "Valor_Total": 6.79012e-05
+                              },
+                              "vol-074331d3a53eefc90": {
+                                 "Quantidade_Usada": 0.0091851852,
+                                 "Valor_Total": 0.0009185185
+                              },
+                              "vol-d12f863808ccf3020": {
+                                 "Quantidade_Usada": 0.0029050926,
+                                 "Valor_Total": 0.0002905093
+                              },
+                              "vol-b4f780ec9d46658e0": {
+                                 "Quantidade_Usada": 0.0006080247,
+                                 "Valor_Total": 6.08025e-05
+                              },
+                              "vol-6290feef1da2d5c90": {
+                                 "Quantidade_Usada": 0.0031674383,
+                                 "Valor_Total": 0.0003167438
+                              },
+                              "vol-036ce33d5e95abbb0": {
+                                 "Quantidade_Usada": 0.0097530864,
+                                 "Valor_Total": 0.0009753086
+                              },
+                              "vol-9c24f40a066ceb420": {
+                                 "Quantidade_Usada": 0.0007530864,
+                                 "Valor_Total": 7.53086e-05
+                              },
+                              "vol-cdf8c4f51e8ff63f0": {
+                                 "Quantidade_Usada": 0.0092962963,
+                                 "Valor_Total": 0.0009296296
+                              },
+                              "vol-991a0bfbbe33c0290": {
+                                 "Quantidade_Usada": 0.04375,
+                                 "Valor_Total": 0.004375
+                              },
+                              "vol-3490377206ff3fac0": {
+                                 "Quantidade_Usada": 0.0029591049,
+                                 "Valor_Total": 0.0002959105
+                              },
+                              "vol-142d440e39b39f440": {
+                                 "Quantidade_Usada": 0.009691358,
+                                 "Valor_Total": 0.0009691358
+                              },
+                              "vol-8568b3322df9826b0": {
+                                 "Quantidade_Usada": 0.0084320988,
+                                 "Valor_Total": 0.0008432099
+                              },
+                              "vol-5bb8a8e6bc8c25160": {
+                                 "Quantidade_Usada": 0.0007962963,
+                                 "Valor_Total": 7.96296e-05
+                              },
+                              "vol-34ea34c868ff078d0": {
+                                 "Quantidade_Usada": 0.0084567901,
+                                 "Valor_Total": 0.000845679
+                              },
+                              "vol-326d568dff4a03a60": {
+                                 "Quantidade_Usada": 0.0006450617,
+                                 "Valor_Total": 6.45062e-05
+                              },
+                              "vol-d5a7e31df46d537a0": {
+                                 "Quantidade_Usada": 0.0005864198,
+                                 "Valor_Total": 5.8642e-05
+                              },
+                              "vol-1fd32b4e721ff1090": {
+                                 "Quantidade_Usada": 0.0029899691,
+                                 "Valor_Total": 0.0002989969
+                              },
+                              "vol-3922cee0b8bc3d9d0": {
+                                 "Quantidade_Usada": 0.0006234568,
+                                 "Valor_Total": 6.23457e-05
+                              },
+                              "vol-2839ebd428f85e230": {
+                                 "Quantidade_Usada": 0.0308256173,
+                                 "Valor_Total": 0.0030825617
+                              },
+                              "vol-b15f985f8abf5b060": {
+                                 "Quantidade_Usada": 0.0005895062,
+                                 "Valor_Total": 5.89506e-05
+                              },
+                              "vol-b09b3eae14dcda860": {
+                                 "Quantidade_Usada": 0.000558642,
+                                 "Valor_Total": 5.58642e-05
+                              },
+                              "vol-39ae4904e03f7c230": {
+                                 "Quantidade_Usada": 0.0031018519,
+                                 "Valor_Total": 0.0003101852
+                              },
+                              "vol-26fe860ed1c0f8010": {
+                                 "Quantidade_Usada": 0.0079506173,
+                                 "Valor_Total": 0.0007950617
+                              },
+                              "vol-f89938ca1fc86c9b0": {
+                                 "Quantidade_Usada": 0.0097037037,
+                                 "Valor_Total": 0.0009703704
+                              },
+                              "vol-83d8d3b97e3313470": {
+                                 "Quantidade_Usada": 0.0084814815,
+                                 "Valor_Total": 0.0008481482
+                              },
+                              "vol-43dbbb21eb1c2c010": {
+                                 "Quantidade_Usada": 0.0296296296,
+                                 "Valor_Total": 0.002962963
+                              },
+                              "vol-5aa269112dd1a6700": {
+                                 "Quantidade_Usada": 0.0099135802,
+                                 "Valor_Total": 0.000991358
+                              },
+                              "vol-4a03b430b8985f9e0": {
+                                 "Quantidade_Usada": 0.0100493827,
+                                 "Valor_Total": 0.0010049383
+                              },
+                              "vol-9a917ef49fa355570": {
+                                 "Quantidade_Usada": 0.009308642,
+                                 "Valor_Total": 0.0009308642
+                              },
+                              "vol-f355e9e6d5cd68480": {
+                                 "Quantidade_Usada": 0.0084691358,
+                                 "Valor_Total": 0.0008469136
+                              },
+                              "vol-38449d82a75bb2860": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-8f4032c69cea4cef0": {
+                                 "Quantidade_Usada": 0.0094938272,
+                                 "Valor_Total": 0.0009493827
+                              },
+                              "vol-cedcc7c82d4de0af0": {
+                                 "Quantidade_Usada": 0.0095308642,
+                                 "Valor_Total": 0.0009530864
+                              },
+                              "vol-376ca1d2715e0e8b0": {
+                                 "Quantidade_Usada": 0.003117284,
+                                 "Valor_Total": 0.0003117284
+                              },
+                              "vol-fcffbd4914c43c6a0": {
+                                 "Quantidade_Usada": 0.0006203704,
+                                 "Valor_Total": 6.2037e-05
+                              },
+                              "vol-10125e29b7ab611b0": {
+                                 "Quantidade_Usada": 0.0026350309,
+                                 "Valor_Total": 0.0002635031
+                              },
+                              "vol-b53ac655a705157e0": {
+                                 "Quantidade_Usada": 0.0099382716,
+                                 "Valor_Total": 0.0009938272
+                              },
+                              "vol-95ee5852dada9c1f0": {
+                                 "Quantidade_Usada": 0.002974537,
+                                 "Valor_Total": 0.0002974537
+                              },
+                              "vol-b8b0cfaee2c414360": {
+                                 "Quantidade_Usada": 0.0004783951,
+                                 "Valor_Total": 4.78395e-05
+                              },
+                              "vol-7c9de8c1f87730660": {
+                                 "Quantidade_Usada": 0.0095925926,
+                                 "Valor_Total": 0.0009592593
+                              },
+                              "vol-789537cbe78ddcb80": {
+                                 "Quantidade_Usada": 0.0008055556,
+                                 "Valor_Total": 8.05556e-05
+                              },
+                              "vol-eb25afe24ad48ee30": {
+                                 "Quantidade_Usada": 0.0030092593,
+                                 "Valor_Total": 0.0003009259
+                              },
+                              "vol-55b6f454957b33f10": {
+                                 "Quantidade_Usada": 0.0007746914,
+                                 "Valor_Total": 7.74691e-05
+                              },
+                              "vol-f2d93b5ee2e6abaa0": {
+                                 "Quantidade_Usada": 0.0005802469,
+                                 "Valor_Total": 5.80247e-05
+                              },
+                              "vol-661b607d2df744300": {
+                                 "Quantidade_Usada": 0.0006419753,
+                                 "Valor_Total": 6.41975e-05
+                              },
+                              "vol-854824fea0b36d590": {
+                                 "Quantidade_Usada": 0.0026427469,
+                                 "Valor_Total": 0.0002642747
+                              },
+                              "vol-234d8bb7a500398d0": {
+                                 "Quantidade_Usada": 0.0099259259,
+                                 "Valor_Total": 0.0009925926
+                              },
+                              "vol-fd26a37cfa35ace30": {
+                                 "Quantidade_Usada": 0.000808642,
+                                 "Valor_Total": 8.08642e-05
+                              },
+                              "vol-797f04c90144eef00": {
+                                 "Quantidade_Usada": 0.0030748457,
+                                 "Valor_Total": 0.0003074846
+                              },
+                              "vol-ec9546420ef6c6ef0": {
+                                 "Quantidade_Usada": 0.0030864198,
+                                 "Valor_Total": 0.000308642
+                              },
+                              "vol-a959ad190c18b8df0": {
+                                 "Quantidade_Usada": 0.0007901235,
+                                 "Valor_Total": 7.90124e-05
+                              },
+                              "vol-a96356175ad39f130": {
+                                 "Quantidade_Usada": 0.009382716,
+                                 "Valor_Total": 0.0009382716
+                              },
+                              "vol-d87e36f9febb09df0": {
+                                 "Quantidade_Usada": 0.0006358025,
+                                 "Valor_Total": 6.35803e-05
+                              },
+                              "vol-4396e4804b5406720": {
+                                 "Quantidade_Usada": 0.0087160494,
+                                 "Valor_Total": 0.0008716049
+                              },
+                              "vol-bf4850ace8edf39d0": {
+                                 "Quantidade_Usada": 0.0008641975,
+                                 "Valor_Total": 8.64198e-05
+                              },
+                              "vol-3193847c22cb57940": {
+                                 "Quantidade_Usada": 0.0030401235,
+                                 "Valor_Total": 0.0003040124
+                              },
+                              "vol-34bc6f8fd717cac20": {
+                                 "Quantidade_Usada": 0.0316743827,
+                                 "Valor_Total": 0.0031674383
+                              },
+                              "vol-5217da1c28e002450": {
+                                 "Quantidade_Usada": 0.0092962963,
+                                 "Valor_Total": 0.0009296296
+                              },
+                              "vol-a2deb45b4ce470b10": {
+                                 "Quantidade_Usada": 0.0031404321,
+                                 "Valor_Total": 0.0003140432
+                              },
+                              "vol-a5f390b65a7dbf080": {
+                                 "Quantidade_Usada": 0.0097160494,
+                                 "Valor_Total": 0.0009716049
+                              },
+                              "vol-10ad871c6e1041f20": {
+                                 "Quantidade_Usada": 0.0031057099,
+                                 "Valor_Total": 0.000310571
+                              },
+                              "vol-cde6973bcfaef47c0": {
+                                 "Quantidade_Usada": 0.0030478395,
+                                 "Valor_Total": 0.000304784
+                              },
+                              "vol-07a3aa5203a17a1e0": {
+                                 "Quantidade_Usada": 0.0026157407,
+                                 "Valor_Total": 0.0002615741
+                              },
+                              "vol-691f1c0fa2e6c8b00": {
+                                 "Quantidade_Usada": 0.0030671296,
+                                 "Valor_Total": 0.000306713
+                              },
+                              "vol-c8038343b1fac8570": {
+                                 "Quantidade_Usada": 0.0006296296,
+                                 "Valor_Total": 6.2963e-05
+                              },
+                              "vol-30d471b2065bfdfc0": {
+                                 "Quantidade_Usada": 0.0095802469,
+                                 "Valor_Total": 0.0009580247
+                              },
+                              "vol-8e0d697548d6ecf90": {
+                                 "Quantidade_Usada": 0.0030246914,
+                                 "Valor_Total": 0.0003024691
+                              },
+                              "vol-9b2c5722253ad8410": {
+                                 "Quantidade_Usada": 0.0027237654,
+                                 "Valor_Total": 0.0002723765
+                              },
+                              "vol-133eccaa7f08b9e80": {
+                                 "Quantidade_Usada": 0.0030285494,
+                                 "Valor_Total": 0.0003028549
+                              },
+                              "vol-3573e5d4abfee9cc0": {
+                                 "Quantidade_Usada": 0.0006111111,
+                                 "Valor_Total": 6.11111e-05
+                              },
+                              "vol-276c5bf96c33feae0": {
+                                 "Quantidade_Usada": 0.002974537,
+                                 "Valor_Total": 0.0002974537
+                              },
+                              "vol-45fd58b9e6da8c480": {
+                                 "Quantidade_Usada": 0.0100123457,
+                                 "Valor_Total": 0.0010012346
+                              },
+                              "vol-ba2cf25d609a47880": {
+                                 "Quantidade_Usada": 0.0026388889,
+                                 "Valor_Total": 0.0002638889
+                              },
+                              "vol-f778b458800d91700": {
+                                 "Quantidade_Usada": 0.0006419753,
+                                 "Valor_Total": 6.41975e-05
+                              },
+                              "vol-c54153bfae061bba0": {
+                                 "Quantidade_Usada": 0.0006111111,
+                                 "Valor_Total": 6.11111e-05
+                              },
+                              "vol-cb6ad7f3ae1dfa200": {
+                                 "Quantidade_Usada": 0.0096296296,
+                                 "Valor_Total": 0.000962963
+                              },
+                              "vol-160b17fe58ed45780": {
+                                 "Quantidade_Usada": 0.0029822531,
+                                 "Valor_Total": 0.0002982253
+                              },
+                              "vol-51eca7a3c245ac500": {
+                                 "Quantidade_Usada": 0.002650463,
+                                 "Valor_Total": 0.0002650463
+                              },
+                              "vol-44ffad2b571be39a0": {
+                                 "Quantidade_Usada": 0.0005709877,
+                                 "Valor_Total": 5.70988e-05
+                              },
+                              "vol-499f105c75cbf4900": {
+                                 "Quantidade_Usada": 0.0096790123,
+                                 "Valor_Total": 0.0009679012
+                              },
+                              "vol-68f30eb2d5afba880": {
+                                 "Quantidade_Usada": 0.0098148148,
+                                 "Valor_Total": 0.0009814815
+                              },
+                              "vol-b885c4c826479cdf0": {
+                                 "Quantidade_Usada": 0.0099012346,
+                                 "Valor_Total": 0.0009901235
+                              },
+                              "vol-bf960e33a02171a80": {
+                                 "Quantidade_Usada": 0.0083950617,
+                                 "Valor_Total": 0.0008395062
+                              },
+                              "vol-04e2cf9c330313670": {
+                                 "Quantidade_Usada": 0.000654321,
+                                 "Valor_Total": 6.54321e-05
+                              },
+                              "vol-e96ce467763152090": {
+                                 "Quantidade_Usada": 0.0008240741,
+                                 "Valor_Total": 8.24074e-05
+                              },
+                              "vol-b1a89b147ae9dd710": {
+                                 "Quantidade_Usada": 0.0005925926,
+                                 "Valor_Total": 5.92593e-05
+                              },
+                              "vol-d84c9942f0911c120": {
+                                 "Quantidade_Usada": 0.0086296296,
+                                 "Valor_Total": 0.000862963
+                              },
+                              "vol-a1aa4cfbd8e346a40": {
+                                 "Quantidade_Usada": 0.0031095679,
+                                 "Valor_Total": 0.0003109568
+                              },
+                              "vol-568b78cc5713058b0": {
+                                 "Quantidade_Usada": 0.0005617284,
+                                 "Valor_Total": 5.61728e-05
+                              },
+                              "vol-0c2185e07d4005270": {
+                                 "Quantidade_Usada": 0.002974537,
+                                 "Valor_Total": 0.0002974537
+                              },
+                              "vol-fd4fc24b5198d54f0": {
+                                 "Quantidade_Usada": 0.0005555556,
+                                 "Valor_Total": 5.55556e-05
+                              },
+                              "vol-52a4f737e2bcaec20": {
+                                 "Quantidade_Usada": 0.009654321,
+                                 "Valor_Total": 0.0009654321
+                              },
+                              "vol-4ee7abc370be68df0": {
+                                 "Quantidade_Usada": 0.0006358025,
+                                 "Valor_Total": 6.35803e-05
+                              },
+                              "vol-ea153b204e70403a0": {
+                                 "Quantidade_Usada": 0.0005895062,
+                                 "Valor_Total": 5.89506e-05
+                              },
+                              "vol-b0a25e19982e1e740": {
+                                 "Quantidade_Usada": 0.002496142,
+                                 "Valor_Total": 0.0002496142
+                              },
+                              "vol-cc37f8880af14ec50": {
+                                 "Quantidade_Usada": 0.0006450617,
+                                 "Valor_Total": 6.45062e-05
+                              },
+                              "vol-43cc113ad91b07920": {
+                                 "Quantidade_Usada": 0.0030748457,
+                                 "Valor_Total": 0.0003074846
+                              },
+                              "vol-3c5d669f97e3a24d0": {
+                                 "Quantidade_Usada": 0.002650463,
+                                 "Valor_Total": 0.0002650463
+                              },
+                              "vol-87c86032b5fa18890": {
+                                 "Quantidade_Usada": 0.0006234568,
+                                 "Valor_Total": 6.23457e-05
+                              },
+                              "vol-3c45844d7f74c5840": {
+                                 "Quantidade_Usada": 0.0030285494,
+                                 "Valor_Total": 0.0003028549
+                              },
+                              "vol-f48a5a3018270f560": {
+                                 "Quantidade_Usada": 0.0080864198,
+                                 "Valor_Total": 0.000808642
+                              },
+                              "vol-becc1ef710fb386c0": {
+                                 "Quantidade_Usada": 0.0006388889,
+                                 "Valor_Total": 6.38889e-05
+                              },
+                              "vol-1bd52f600bf5f5e90": {
+                                 "Quantidade_Usada": 0.000787037,
+                                 "Valor_Total": 7.87037e-05
+                              },
+                              "vol-06a696c5b5ab3ee10": {
+                                 "Quantidade_Usada": 0.0030246914,
+                                 "Valor_Total": 0.0003024691
+                              },
+                              "vol-9728b318dca2e86b0": {
+                                 "Quantidade_Usada": 0.0085555556,
+                                 "Valor_Total": 0.0008555556
+                              },
+                              "vol-8e34ff128e1cdc1f0": {
+                                 "Quantidade_Usada": 0.0007932099,
+                                 "Valor_Total": 7.9321e-05
+                              },
+                              "vol-93be65d4265aceda0": {
+                                 "Quantidade_Usada": 0.0007839506,
+                                 "Valor_Total": 7.83951e-05
+                              },
+                              "vol-a0de3359ffce32190": {
+                                 "Quantidade_Usada": 0.0006203704,
+                                 "Valor_Total": 6.2037e-05
+                              },
+                              "vol-85134ed8e35207c90": {
+                                 "Quantidade_Usada": 0.0098024691,
+                                 "Valor_Total": 0.0009802469
+                              },
+                              "vol-53aa822c9d548d020": {
+                                 "Quantidade_Usada": 0.0249421296,
+                                 "Valor_Total": 0.002494213
+                              },
+                              "vol-49cd35d9c196ee4b0": {
+                                 "Quantidade_Usada": 0.003128858,
+                                 "Valor_Total": 0.0003128858
+                              },
+                              "vol-4ea872de67c845910": {
+                                 "Quantidade_Usada": 0.0095308642,
+                                 "Valor_Total": 0.0009530864
+                              },
+                              "vol-bde0cf6445372cc40": {
+                                 "Quantidade_Usada": 0.0098395062,
+                                 "Valor_Total": 0.0009839506
+                              },
+                              "vol-49e778142abe6c0b0": {
+                                 "Quantidade_Usada": 0.0025270062,
+                                 "Valor_Total": 0.0002527006
+                              },
+                              "vol-405835bd75ac4ce10": {
+                                 "Quantidade_Usada": 0.0026890432,
+                                 "Valor_Total": 0.0002689043
+                              },
+                              "vol-185a0d70c8ad8b520": {
+                                 "Quantidade_Usada": 0.000632716,
+                                 "Valor_Total": 6.32716e-05
+                              },
+                              "vol-9e5f372937edada00": {
+                                 "Quantidade_Usada": 0.0096666667,
+                                 "Valor_Total": 0.0009666667
+                              },
+                              "vol-4ae699d755e7578d0": {
+                                 "Quantidade_Usada": 0.002966821,
+                                 "Valor_Total": 0.0002966821
+                              },
+                              "vol-abada9864f41d2c20": {
+                                 "Quantidade_Usada": 0.0198302469,
+                                 "Valor_Total": 0.0019830247
+                              },
+                              "vol-e9ded40f720ea2ab0": {
+                                 "Quantidade_Usada": 0.0006234568,
+                                 "Valor_Total": 6.23457e-05
+                              },
+                              "vol-1d2a72e2804661d00": {
+                                 "Quantidade_Usada": 0.0030208333,
+                                 "Valor_Total": 0.0003020833
+                              }
+                           }
+                        },
+                        "standard": {
+                           "Valor_Total_do_Volume": 3.8399999759999197,
+                           "Id_do_Volume": {
+                              "vol-19931410f861389f0": {
+                                 "Quantidade_Usada": 30.000000023999714,
+                                 "Valor_Total": 3.5999999999999455
+                              },
+                              "vol-919d5dab3b07bc5d0": {
+                                 "Quantidade_Usada": 2.000000015999995,
+                                 "Valor_Total": 0.23999997599999653
+                              }
+                           }
+                        },
+                        "gp3": {
+                           "Valor_Total_do_Volume": 2.399999976000027,
+                           "Id_do_Volume": {
+                              "vol-22ff3a81186ac7300": {
+                                 "Quantidade_Usada": 30.000000023999714,
+                                 "Valor_Total": 2.399999976000027
+                              }
+                           }
+                        }
+                     },
+                     "OPERACAO": {
+                        "APS1-FreeEventsRecorded": 0.0,
+                        "SAE1-TransitGateway-Hours": 129.60000000000363,
+                        "SAE1-TransitGateway-Bytes": 0.07986603710000009,
+                        "SAE1-VPN-Usage-Hours:ipsec.1": 36.00000000000009,
+                        "APS2-FreeEventsRecorded": 0.0,
+                        "APS3-FreeEventsRecorded": 0.0,
+                        "SAE1-VpcEndpoint-Hours": 45.36000000000028,
+                        "SAE1-DataTransfer-Regional-Bytes": 2.4504748268999825,
+                        "APN2-FreeEventsRecorded": 0.0,
+                        "USE2-FreeEventsRecorded": 0.0,
+                        "SAE1-VpcEndpoint-Bytes": 0.0017087899000000001,
+                        "SAE1-InsightsEvents": 0.09609600000000025,
+                        "SAE1-DataTransfer-Out-Bytes": 62.82685754430212,
+                        "SAE1-FreeEventsRecorded": 0.0,
+                        "USW2-FreeEventsRecorded": 0.0,
+                        "APN3-FreeEventsRecorded": 0.0,
+                        "APS2-DataTransfer-Out-Bytes": 0.0,
+                        "EUN1-FreeEventsRecorded": 0.0,
+                        "APN1-FreeEventsRecorded": 0.0,
+                        "APS1-DataTransfer-Out-Bytes": 0.0,
+                        "USE1-FreeEventsRecorded": 0.0,
+                        "EUW2-FreeEventsRecorded": 0.0,
+                        "EU-FreeEventsRecorded": 0.0,
+                        "EUW3-FreeEventsRecorded": 0.0,
+                        "CAN1-FreeEventsRecorded": 0.0,
+                        "Requests-Tier1": 0.6426439999999936,
+                        "EUC1-FreeEventsRecorded": 0.0,
+                        "EU-DataTransfer-Out-Bytes": 0.0703254705,
+                        "APN2-CW:Requests": 0.0389299999999999,
+                        "APS1-DataTransfer-In-Bytes": 0.0,
+                        "USE2-DataTransfer-In-Bytes": 0.0,
+                        "APN2-DataTransfer-In-Bytes": 0.0,
+                        "EUN1-DataTransfer-In-Bytes": 0.0,
+                        "EUW3-DataTransfer-Out-Bytes": 0.0,
+                        "USW2-CW:Requests": 0.05900999999999998,
+                        "CAN1-CW:Requests": 0.0389299999999999,
+                        "USW1-FreeEventsRecorded": 0.0,
+                        "EUW2-DataTransfer-Out-Bytes": 0.0,
+                        "CAN1-DataTransfer-In-Bytes": 0.0,
+                        "AWS-Auto-Steps-Tier1": 0.0,
+                        "EUC1-DataTransfer-Out-Bytes": 0.0,
+                        "CW:Requests": 21.99649,
+                        "EUN1-DataTransfer-Out-Bytes": 0.0,
+                        "SAE1-DataTransfer-In-Bytes": 0.0,
+                        "APN2-DataTransfer-Out-Bytes": 0.0,
+                        "APS3-DataTransfer-Out-Bytes": 0.0,
+                        "APN3-DataTransfer-In-Bytes": 0.0,
+                        "EUW2-DataTransfer-In-Bytes": 0.0,
+                        "EUW3-CW:Requests": 0.038929999999999916,
+                        "APN1-DataTransfer-Out-Bytes": 0.0,
+                        "CAN1-DataTransfer-Out-Bytes": 0.0,
+                        "USE2-DataTransfer-Out-Bytes": 0.0,
+                        "": 464.87999999999994,
+                        "EUW3-DataTransfer-In-Bytes": 0.0,
+                        "USE1-InsightsEvents": 0.3928854999999997,
+                        "APS3-CW:Requests": 0.03892999999999987,
+                        "EU-DataTransfer-In-Bytes": 0.0,
+                        "APN3-DataTransfer-Out-Bytes": 0.0,
+                        "EUC1-DataTransfer-In-Bytes": 0.0,
+                        "APN1-DataTransfer-In-Bytes": 0.0,
+                        "APN3-CW:Requests": 0.00035000000000000005,
+                        "USE2-CW:Requests": 0.03892999999999991,
+                        "APS2-DataTransfer-In-Bytes": 0.0,
+                        "EUC1-CW:Requests": 0.0389099999999999,
+                        "EU-CW:Requests": 0.0389299999999999,
+                        "APN1-CW:Requests": 0.038929999999999895,
+                        "APS1-CW:Requests": 0.03892999999999991,
+                        "USW1-CW:Requests": 0.038929999999999895,
+                        "SAE1-CW:Requests": 3.4961920000000077,
+                        "APS3-DataTransfer-In-Bytes": 0.0,
+                        "APS2-CW:Requests": 0.038929999999999916,
+                        "EUN1-CW:Requests": 0.00035000000000000005,
+                        "EUW2-CW:Requests": 0.038929999999999874,
+                        "Requests-Tier2": 0.7116044000018013,
+                        "SAE1-EU-AWS-Out-Bytes": 0.022044513400000153,
+                        "APN2-Requests-Tier1": 0.0029035999999999927,
+                        "SAE1-USE2-AWS-In-Bytes": 0.0,
+                        "SAE1-LCUUsage": 2.403652148599994,
+                        "SAE1-LoadBalancerUsage": 195.8399999999936,
+                        "SAE1-USE1-AWS-Out-Bytes": 0.34272053960000437,
+                        "SAE1-USE1-AWS-In-Bytes": 0.0,
+                        "SAE1-EBS:VolumeIOUsage": 1.2792532799999998,
+                        "SAE1-EBS:SnapshotUsage": 56.12708170090044,
+                        "ComputeSP:3yrNoUpfront": 225.49000000000163,
+                        "DataTransfer-In-Bytes": 0.0,
+                        "SAE1-Requests-Tier1": 1.3234544000000137,
+                        "SAE1-TimedStorage-ByteHrs": 2.256516327800006,
+                        "SAE1-InstanceUsage:db.t2.micro": 25.20000000000009,
+                        "SAE1-APN2-AWS-In-Bytes": 0.0,
+                        "APS3-Requests-Tier1": 0.002903999999999994,
+                        "SAE1-EBSOptimized:t3a.small": 0.0,
+                        "USE1-TimedStorage-ByteHrs": 8.533496687199978,
+                        "LoadBalancerUsage": 80.99999999999739,
+                        "SAE1-APS2-AWS-Out-Bytes": 0.022403605000000066,
+                        "DNS-Queries": 0.7371616000000532,
+                        "SAE1-USW2-AWS-In-Bytes": 0.0,
+                        "SAE1-EU-AWS-In-Bytes": 0.0,
+                        "SAE1-USE2-AWS-Out-Bytes": 0.02199827810000016,
+                        "Health-Check-AWS": 0.0,
+                        "DataTransfer-Out-Bytes": 9.220879760999988,
+                        "EUC1-Requests-Tier1": 0.0029039999999999895,
+                        "SAE1-CW:MetricMonitorUsage": 20.100000023998145,
+                        "APS2-Requests-Tier1": 0.0029039999999999925,
+                        "SAE1-APS1-AWS-Out-Bytes": 0.022445472200000073,
+                        "SAE1-EBSOptimized:m4.large": 0.0,
+                        "Intra-AWS-DNS-Queries": 0.0,
+                        "SAE1-EUC1-AWS-Out-Bytes": 0.021783045500000084,
+                        "ElasticIP:IdleAddress": 25.20000000000019,
+                        "SAE1-RDS:GP2-Storage": 4.379999975999998,
+                        "SAE1-CloudFront-In-Bytes": 0.0,
+                        "USW1-Requests-Tier1": 0.002905999999999992,
+                        "USE2-Requests-Tier1": 0.002924799999999992,
+                        "SAE1-USW2-AWS-Out-Bytes": 0.022232250400000188,
+                        "Requests-RBP": 37.974506000000005,
+                        "APN1-Requests-Tier1": 0.002904399999999991,
+                        "SAE1-ElasticIP:IdleAddress": 3.5999999999999455,
+                        "SAE1-EUW2-AWS-In-Bytes": 0.0,
+                        "SAE1-EUN1-AWS-In-Bytes": 0.0,
+                        "USE1-USW2-AWS-In-Bytes": 0.0,
+                        "USW2-Requests-Tier1": 0.002905199999999993,
+                        "SAE1-EUC1-AWS-In-Bytes": 0.0,
+                        "SAE1-APS1-AWS-In-Bytes": 0.0,
+                        "CW:AlarmMonitorUsage": 3.4997800845999483,
+                        "APS1-Requests-Tier1": 0.002903999999999993,
+                        "SAE1-CAN1-AWS-In-Bytes": 0.0,
+                        "SAE1-IATimedStorage-ByteHrs": 3.290399999999951e-05,
+                        "SAE1-Requests-Tier2": 0.06732823999994783,
+                        "SAE1-APN1-AWS-In-Bytes": 0.0,
+                        "EU-Requests-Tier1": 0.00321119999999998,
+                        "SAE1-APE1-AWS-In-Bytes": 0.0,
+                        "SAE1-EUW3-AWS-In-Bytes": 0.0,
+                        "SAE1-APE1-AWS-Out-Bytes": 6.284799999999999e-06,
+                        "Health-Check-Non-AWS": 1.4999999999999987,
+                        "DataTransfer-Regional-Bytes": 4.260882150999971,
+                        "SAE1-USW1-AWS-In-Bytes": 0.0,
+                        "SAE1-APS3-AWS-Out-Bytes": 0.02224349630000011,
+                        "SAE1-APN1-AWS-Out-Bytes": 0.02231411750000003,
+                        "SAE1-APS3-AWS-In-Bytes": 0.0,
+                        "SAE1-APS2-AWS-In-Bytes": 0.0,
+                        "USE1-USE2-AWS-In-Bytes": 0.0,
+                        "SAE1-CAN1-AWS-Out-Bytes": 3.68771e-05,
+                        "USE1-APS2-AWS-In-Bytes": 0.0,
+                        "SAE1-EUW2-AWS-Out-Bytes": 4.85229e-05,
+                        "SAE1-CloudFront-Out-Bytes": 0.0,
+                        "Health-Check-Option-Non-AWS": 1.9999999979999996,
+                        "Health-Check-Option-AWS": 0.9999999989999998,
+                        "SAE1-APN2-AWS-Out-Bytes": 0.02235853820000002,
+                        "USE1-EUC1-AWS-In-Bytes": 0.0,
+                        "SAE1-MES1-AWS-In-Bytes": 0.0,
+                        "USE1-APS1-AWS-In-Bytes": 0.0,
+                        "SAE1-SoftwareUsage:t2.micro": 57.59999999999913,
+                        "SAE1-SoftwareUsage:c5.large": 524.8700000000051,
+                        "MP:NotCloud-Units": 31.500000000000565,
+                        "MP:WorkloadSmall-Units": 54.25999999999928,
+                        "USE1-APE1-AWS-In-Bytes": 0.0,
+                        "USE1-APS3-AWS-In-Bytes": 0.0,
+                        "USE1-CloudFront-Out-Bytes": 0.0,
+                        "SAE1-HeavyUsage:t2.micro": 13.392,
+                        "SAE1-DataProcessing-Bytes": 1.601e-07,
+                        "USE1-EU-AWS-In-Bytes": 0.0,
+                        "SAE1-EUN1-AWS-Out-Bytes": 4.201599999999999e-06,
+                        "SAE1-USW1-AWS-Out-Bytes": 0.021805849900000108,
+                        "SAE1-AFS1-AWS-In-Bytes": 0.0,
+                        "USE1-EUW2-AWS-In-Bytes": 0.0,
+                        "USE1-APN1-AWS-In-Bytes": 0.0,
+                        "USE1-EUW3-AWS-In-Bytes": 0.0,
+                        "USE1-USW1-AWS-In-Bytes": 0.0,
+                        "USE1-APS1-AWS-Out-Bytes": 7.174400000000001e-06,
+                        "SAE1-EUW3-AWS-Out-Bytes": 2.1397199999999996e-05,
+                        "USE1-EUN1-AWS-In-Bytes": 0.0,
+                        "USE1-APN2-AWS-In-Bytes": 0.0,
+                        "USE1-SAE1-AWS-In-Bytes": 0.0,
+                        "sa-east-1-KMS-Requests": 0.0007559999999999991,
+                        "USE1-APE1-AWS-Out-Bytes": 3.2480000000000005e-07,
+                        "USE1-CloudFront-In-Bytes": 0.0,
+                        "USE1-APN2-AWS-Out-Bytes": 4.529199999999999e-06,
+                        "USE1-APS3-AWS-Out-Bytes": 6.4753e-06,
+                        "USE1-USW1-AWS-Out-Bytes": 0.0003590873000000019,
+                        "USE1-MES1-AWS-In-Bytes": 0.0,
+                        "USE1-CAN1-AWS-In-Bytes": 0.0,
+                        "HostedZone": 2.1,
+                        "SAE1-MES1-AWS-Out-Bytes": 1.03e-08,
+                        "USE1-EUN1-AWS-Out-Bytes": 6.499999999999999e-09,
+                        "SAE1-NatGateway-Hours": 133.92000000000294,
+                        "APS2-PaidEventsRecorded": 2.2474799999999955,
+                        "APS3-PaidEventsRecorded": 2.247479999999996,
+                        "APN2-PaidEventsRecorded": 2.2477599999999978,
+                        "SAE1-NatGateway-Bytes": 1.220859999999994e-05,
+                        "SAE1-PaidEventsRecorded": 4.740560000000004,
+                        "EUC1-PaidEventsRecorded": 2.2476399999999965,
+                        "APS1-PaidEventsRecorded": 2.247839999999998,
+                        "SAE1-EBSOptimized:c5.xlarge": 0.0,
+                        "SAE1-APN3-AWS-In-Bytes": 0.0,
+                        "SAE1-EBSOptimized:m5.xlarge": 0.0,
+                        "EU-PaidEventsRecorded": 2.2481399999999985,
+                        "APN1-PaidEventsRecorded": 2.2474999999999956,
+                        "USW2-PaidEventsRecorded": 2.2483399999999976,
+                        "SAE1-EUS1-AWS-In-Bytes": 0.0,
+                        "USE1-PaidEventsRecorded": 2.2614599999999965,
+                        "USE2-PaidEventsRecorded": 2.2584399999999984,
+                        "USE2-CW:AlarmMonitorUsage": 0.1999884418999977,
+                        "USE1-SAE1-AWS-Out-Bytes": 0.00018316760000000032,
+                        "USW1-PaidEventsRecorded": 2.248539999999996,
+                        "USE1-DataProcessing-Bytes": 23.240723235100173,
+                        "Storage-ShardHour": 129.600000000003,
+                        "USE1-AWSSecretsManager-Secrets": 0.4000000319999954,
+                        "USE1-ECS-EC2-GB-Hours": 0.0,
+                        "Lambda-GB-Second": 4.479311644300013,
+                        "NodeUsage:cache.t2.micro": 24.479999999999542,
+                        "TimedStorage-ByteHrs": 9.38932992179945,
+                        "Request": 0.2025374000000173,
+                        "Aurora:StorageIOUsage": 4.043330399999999,
+                        "USE2-TimedStorage-ByteHrs": 0.00012380970000000006,
+                        "USE1-ApiGatewayRequest": 4.23582250000003,
+                        "USE1-ECS-EC2-vCPU-Hours": 0.0,
+                        "USE1-XRay-TracesStored": 5.087039999999986,
+                        "InactivePipelines": 6.000000048000622,
+                        "USE1-KPU-Hour": 98.87999999999934,
+                        "USW2-DataTransfer-Out-Bytes": 0.004401875199999987,
+                        "DashboardsUsageHour": 6.00000004800009,
+                        "US-DataTransfer-Out-Bytes": 1.3639252754,
+                        "US-Requests-Tier2-HTTPS": 0.2200450000000027,
+                        "WriteRequestUnits": 0.15732624999999983,
+                        "USW2-DataProcessing-Bytes": 0.19106777289999988,
+                        "LCUUsage": 2.4730507770999957,
+                        "USW2-TimedStorage-ByteHrs": 0.008662315199999987,
+                        "SpotUsage:t3a.large": 119.89386799969571,
+                        "USW2-Requests-Tier2": 0.004371999999999603,
+                        "USE1-Event-64K-Chunks": 2.2736070000000015,
+                        "USE1-StreamsSourceBilledBytes": 0.7062618569000005,
+                        "CW:MetricMonitorUsage": 3.555833315699987,
+                        "USW2-InstanceUsage:db.t3.small": 29.520000000000223,
+                        "CA-Requests-Tier2-HTTPS": 0.0013220000000000003,
+                        "Lambda-Edge-Request": 0.010219199999999979,
+                        "EBSOptimized:t3a.medium": 0.0,
+                        "EU-Requests-Tier2-HTTPS": 0.005321999999999976,
+                        "CA-DataTransfer-Out-Bytes": 0.0092965149,
+                        "SpotUsage:t3a.medium": 26.098117998900122,
+                        "USW2-USE1-AWS-Out-Bytes": 5.20126000000016e-05,
+                        "USW2-Catalog-Storage": 2.0015999999999983e-05,
+                        "SA-Requests-Tier2-HTTPS": 0.007282000000000002,
+                        "us-east-1-KMS-Requests": 0.00674400000000014,
+                        "USW2-DataTransfer-In-Bytes": 0.0,
+                        "ReadCapacityUnit-Hrs": 1.8720000000000612,
+                        "eu-central-1-KMS-Requests": 0.0,
+                        "AWS-Activities-infreq": 11.999999951999971,
+                        "ES:GP2-Storage": 13.406249928500147,
+                        "USE1-TotalDataXfer-Out-Bytes": 0.0,
+                        "USE1-Catalog-Storage": 0.008358945399999998,
+                        "Aurora:BackupUsage": 0.19943625600000334,
+                        "WriteCapacityUnit-Hrs": 9.360000000000195,
+                        "USE1-BundleUsage:8GB": 33.417200000000086,
+                        "SpotUsage:t3.medium": 9.04980000000003,
+                        "Aurora:StorageUsage": 2.9479621018000017,
+                        "ReadRequestUnits": 0.3364386250000007,
+                        "us-west-1-KMS-Requests": 0.0006299999999999998,
+                        "Aurora:ServerlessUsage": 86.40000000000025,
+                        "USW2-EBS:SnapshotUsage": 1.007031249,
+                        "USE1-USE2-AWS-Out-Bytes": 2.0785000000000005e-06,
+                        "USE1-USW2-AWS-Out-Bytes": 0.0001669518000000002,
+                        "NodeUsage:cache.t2.small": 24.479999999999862,
+                        "ESInstance:t3.small": 25.740000000000236,
+                        "ConfigurationItemRecorded": 10.717999999999988,
+                        "USW2-Aurora:StorageIOUsage": 0.7723119999999996,
+                        "EBS:SnapshotUsage": 4.102728701999994,
+                        "CAN1-Requests-Tier1": 1.2799999999999993e-05,
+                        "USE1-ApiGatewayCacheUsage:0.5GB": 14.397350377400013,
+                        "InstanceUsage:db.t3.small": 29.520000000000223,
+                        "SA-DataTransfer-Out-Bytes": 0.2668223984,
+                        "US-Requests-Tier1": 0.0008459999999999954,
+                        "eu-west-1-KMS-Requests": 0.0003990000000000002,
+                        "PutRequestPayloadUnits": 0.06699530600000027,
+                        "EU-TimedStorage-ByteHrs": 6.622099999999996e-06,
+                        "AWS-Preconditions-infreq": 1.1999999519999907,
+                        "DeliveryAttempts-HTTP": 0.0,
+                        "EUW3-Requests-Tier1": 1.2799999999999993e-05,
+                        "USW2-Aurora:StorageUsage": 0.6301445106000014,
+                        "TimedStorage-GlacierByteHrs": 2.544000000000001e-06,
+                        "ap-southeast-1-KMS-Requests": 0.0,
+                        "ap-northeast-1-KMS-Requests": 0.0,
+                        "USW2-Lambda-GB-Second": 0.00014147510000000002,
+                        "USE1-DataTransferOut": 0.0,
+                        "USW2-NodeUsage:cache.t2.micro": 12.239999999999931,
+                        "DashboardsUsageHour-Basic": 14.499999907200133,
+                        "USE1-APN1-AWS-Out-Bytes": 4.585600000000002e-06,
+                        "ca-central-1-KMS-Requests": 0.0,
+                        "ElastiCache:BackupUsage": 4.9704400000000134e-05,
+                        "ap-southeast-2-KMS-Requests": 0.0,
+                        "USE1-APS2-AWS-Out-Bytes": 8.950000000000002e-07,
+                        "USE1-TotalDataXfer-In-Bytes": 0.0,
+                        "USE1-EU-AWS-Out-Bytes": 4.954800000000001e-05,
+                        "eu-west-3-KMS-Requests": 0.0006299999999999999,
+                        "EUW2-Requests-Tier1": 1.2799999999999993e-05,
+                        "USE2-InsightsEvents": 0.0005879999999999997,
+                        "DeliveryAttempts-SMTP": 8e-05,
+                        "USW2-Lambda-Edge-Request": 0.00010860000000000001,
+                        "Lambda-Edge-GB-Second": 0.0002846330000000003,
+                        "USW2-DataTransfer-Regional-Bytes": 6.286999999999999e-06,
+                        "us-east-2-KMS-Requests": 0.0006480000000000001,
+                        "USE1-EUC1-AWS-Out-Bytes": 1.51053e-05,
+                        "eu-west-2-KMS-Requests": 0.0006300000000000001,
+                        "us-west-2-KMS-Requests": 0.0007049999999999996,
+                        "DeliveryAttempts-LAMBDA": 0.0,
+                        "USE1-CAN1-AWS-Out-Bytes": 7.974000000000001e-07,
+                        "USW1-TimedStorage-ByteHrs": 6.209999999999999e-07,
+                        "EUC1-Lambda-Edge-GB-Second": 2.6254000000000003e-06,
+                        "Recipients-EC2": 0.020399999999999984,
+                        "ap-south-1-KMS-Requests": 0.0,
+                        "USW2-CloudFront-Out-Bytes": 0.0,
+                        "USE2-Lambda-Edge-Request": 0.0004421999999999999,
+                        "EU-Lambda-Edge-GB-Second": 1.2877e-06,
+                        "USE1-PaidDataInventoryEvaluation": 6.274551999999999,
+                        "ap-northeast-2-KMS-Requests": 0.0,
+                        "USW2-Request": 9.399999999999996e-06,
+                        "USE2-Lambda-Edge-GB-Second": 1.83791e-05,
+                        "USE2-DataProcessing-Bytes": 0.00011651970000000006,
+                        "USE1-Build-Min:Linux:g1.small": 1.1300000000000006,
+                        "EUW2-TimedStorage-ByteHrs": 3.6177600000000004e-05,
+                        "EUC1-TimedStorage-ByteHrs": 2.54462e-05,
+                        "USE1-DataStorage": 0.0279226625,
+                        "USE1-Catalog-Request": 0.000264,
+                        "USW2-Lambda-Edge-GB-Second": 4.488499999999999e-06,
+                        "USW2-DeliveryAttempts-SQS": 0.0,
+                        "EU-InsightsEvents": 2.8e-05,
+                        "TimedStorage-SIA-ByteHrs": 0.002704400999999999,
+                        "USW1-DataProcessing-Bytes": 2.41433e-05,
+                        "USW1-InsightsEvents": 8.749999999999997e-05,
+                        "USW1-DataTransfer-Out-Bytes": 0.0,
+                        "DeliveryAttempts-SQS": 0.0,
+                        "APN3-Requests-Tier1": 0.0,
+                        "SoftwareUsage:t2.medium": 57.59999999999913,
+                        "USE1-EUW2-AWS-Out-Bytes": 2.2844999999999995e-06,
+                        "USE1-MacieDailyUsage": 0.0,
+                        "USW2-InsightsEvents": 0.00026599999999999996,
+                        "USE1-DataScannedInTB": 0.0059999999999999975,
+                        "USW1-Lambda-Edge-GB-Second": 3.2379999999999997e-06,
+                        "EUC1-DataProcessing-Bytes": 2.2250500000000003e-05,
+                        "USE1-SnapshotUsage": 3.193115235,
+                        "EUN1-Requests-Tier1": 0.0,
+                        "EUC1-Lambda-Edge-Request": 6.720000000000001e-05,
+                        "EUW2-Lambda-Edge-GB-Second": 1.4504000000000001e-06,
+                        "EUC1-InsightsEvents": 7.35e-05,
+                        "USE1-DataScanned-Bytes": 0.0001953126,
+                        "USE1-EUW3-AWS-Out-Bytes": 3.8313999999999994e-06,
+                        "USW2-USE1-AWS-In-Bytes": 0.0,
+                        "USW1-Lambda-Edge-Request": 6.840000000000002e-05,
+                        "EUW2-InsightsEvents": 4.5499999999999995e-05,
+                        "EU-Lambda-Edge-Request": 2.46e-05,
+                        "Invalidations": 0.0,
+                        "USW2-USE2-AWS-In-Bytes": 0.0,
+                        "CA-Requests-Tier1": 3.825000000000001e-05,
+                        "USE1-BuildDuration": 0.0,
+                        "EU-DataProcessing-Bytes": 7.374700000000001e-06,
+                        "USW2-USE2-AWS-Out-Bytes": 5.065999999999999e-07,
+                        "EUW2-DataProcessing-Bytes": 2.12105e-05,
+                        "EUW2-Lambda-Edge-Request": 6.78e-05,
+                        "USE1-XRay-TracesAccessed": 0.0,
+                        "USW2-ApiGatewayRequest": 0.00032550000000000005,
+                        "USE1-CognitoEnterpriseMAU": 0.0,
+                        "USE1-Requests": 0.0,
+                        "SA-Requests-Tier1": 3.2e-06,
+                        "US-DataTransfer-Out-OBytes": 2.7e-09,
+                        "US-Requests-HTTPS-Proxy": 1e-06,
+                        "USE1-UGW1-AWS-In-Bytes": 0.0
+                     }
+                  }
+               }
+            }
+         }
+      }
+   }
+}
